@@ -1,0 +1,138 @@
+﻿// @import './main';
+// @import './variable';
+
+.main__content {
+    margin-top: 70px;
+    padding: 20px 50px;
+
+    & .main__slider {
+        display: flex;
+        width: 100%;
+
+        & .main__slider-item {
+            width: calc(97% / 3);
+            background-color: #7200a1;
+            border-radius: 10px;
+            cursor: pointer;
+
+            & .slider-img {
+                max-width: 100%;
+                display: block;
+                border-radius: 10px;
+            }
+        }
+
+        & .main__slider-item:not(:last-child) {
+            margin-right: 3%;
+        }
+    }
+
+    & .main__album {
+        margin-top: 30px;
+
+        & .main__album--heading {
+            color: #fff;
+            margin-bottom: 16px;
+            font-size: 25px;
+        }
+
+        & .main__album__content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            & .main__album__content--items {
+                width: calc(90% / 5);
+                cursor: pointer;
+
+                & .main__album__content-item {
+                    & .album__img {
+                        position: relative;
+
+                        & .album__img-body {
+                            overflow: hidden;
+                        }
+
+                        & .album-img {
+                            max-width: 100%;
+                            display: block;
+                            border-radius: 7px;
+                        }
+
+                        & .album-img:hover {
+                            -webkit-transform: scale(1.06);
+                            transform: scale(1.06);
+                        }
+                    }
+
+                    & .album__text {
+                        padding-top: 5px;
+
+                        & a {
+                            display: block;
+                            text-decoration: none;
+                            font-size: 15px;
+                            font-weight: 700;
+                            margin-bottom: 4px;
+                            color: #fff;
+                        }
+
+                        & a:hover {
+                            color: #c662ef;
+                        }
+
+                        & span {
+                            color: hsla(0, 0%, 100%, 0.5);
+                            font-weight: 400;
+                            font-size: 14px;
+                            cursor: default;
+                        }
+                    }
+                }
+            }
+        }
+
+        & .main__album__content-hover {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.5);
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+
+            & a {
+                color: #fff;
+                margin: 0 12px;
+            }
+
+            &:hover {
+                opacity: 1;
+                transition: linear 0.5s;
+            }
+
+            &:not(hover) {
+                opacity: 0;
+                transition: linear 0.5s;
+            }
+
+            & .favorite-icon,
+            .more-icon {
+                display: inline-block;
+                font-size: 20px;
+            }
+
+            & .play-icon {
+                display: inline-block;
+                font-size: 45px;
+            }
+
+            & .favorite-icon:hover {
+                color: red;
+            }
+        }
+    }
+}

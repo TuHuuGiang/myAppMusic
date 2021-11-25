@@ -1,0 +1,118 @@
+﻿.main__body {
+    & .main__content {
+        & .view__account {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            & .view__account-content {
+                & .account-img {
+                    border-radius: 50%;
+                    max-width: 100%;
+                }
+            }
+
+            & .view__account-name {
+                color: $text-color-white;
+                padding: 10px;
+            }
+        }
+
+        & .main__zingchart-content {
+            background-color: $bgc-main;
+            // padding: 20px 50px;
+
+            & .main__zingchart-song {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 8px 0;
+                border-top: 1px solid $text-color-gray;
+                
+
+                & .main__zingchart-left {
+                    flex: 1;
+                    display: flex;
+                    align-items: center;
+
+                    & .main__song-rank {
+                        & .menu-icons {
+                            color: $text-color-white;
+                            font-size: 21px;
+                        }
+                    }
+
+                    & .main__zingchart-songimg {
+                        margin: 0px 18px;
+
+                        & .zingchart-img {
+                            width: 40px;
+                            height: 40px;
+                        }
+                    }
+
+                    & .main__zingchart-singer {
+                        & .zingchart-song,
+                        .zingchart-singer {
+                            text-decoration: none;
+                        }
+
+                        & .zingchart-song {
+                            display: block;
+                            color: #fff;
+                            font-weight: 900;
+                        }
+
+                        & .zingchart-singer {
+                            display: inline-block;
+                            padding-top: 5px;
+                            font-size: 14px;
+                            color: rgba(255, 255, 255, 0.5);
+                        }
+
+                        & .zingchart-singer:hover {
+                            color: #c662ef;
+                            text-decoration: underline;
+                        }
+                    }
+                }
+
+                & .main__zingchart-between {
+                    flex: 1;
+                    display: flex;
+                    justify-content: center;
+
+                    & .zingchart-singletime {
+                        & .single-time {
+                            color: rgba(255, 255, 255, 0.5);
+                        }
+                    }
+                }
+
+                & .main__zingchart-right {
+                    flex: 1;
+                    display: flex;
+                    justify-content: flex-end;
+
+                    & .zingchart-options {
+                        & i {
+                            color: #fff;
+                            padding: 0 6px;
+                            cursor: pointer;
+                        }
+
+                        & .favorite-icon {
+                            color: red;
+                        }
+                    }
+                }
+            }
+
+            & .main__zingchart-heading {
+                color: $text-color-white;
+                margin: 10px 0 30px;
+            }
+        }
+    }
+}

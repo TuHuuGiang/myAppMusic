@@ -1,0 +1,41 @@
+<footer class="audio">
+  <div class="audio__container">
+    <div class="audio__song">
+      <div class="audio__song-disc">
+        <img src="{{songs?.image}}" alt="" class="song-disc">
+      </div>
+      <div class="audio__song-info">
+        <div class="audio__song-info-songname">
+          <a href="#">{{songs?.songName}}</a>
+        </div>
+        <div class="audio__song-info-singername">
+          <a href="#">{{songs?.singer1}}</a>&nbsp;
+          <a href="#">{{songs?.singer2}}</a>
+        </div>
+      </div>
+    </div>
+    <div class="audio__controls">
+      <div class="audio__controls-play">
+        <i class="bi bi-shuffle"></i>
+        <i class="bi bi-skip-start-fill" (click)="prevSong()"></i>
+        <span (click)="playOrPause()">
+          <i class="bi bi-play-circle audio-icon-play" *ngIf="!isPlay"></i>
+          <i class="bi bi-pause-circle audio-icon-pause" *ngIf="isPlay"></i>
+        </span>
+        <i class="bi bi-skip-end-fill" (click)="nextSong()"></i>
+        <i class="bi bi-arrow-repeat"></i>
+      </div>
+      <div class="audio__controls-time">
+        <!-- <span>00:00</span> -->
+        <!-- <div class="time"></div> -->
+        <input [(ngModel)]="timeValue" type="range" class="time" min="0" max="100" value="{{timeValue}}" step="1" (change)="targetTime($event)">
+        <!-- <span>04:30</span> -->
+      </div>
+    </div>
+    <div class="audio__options">
+      <i class="bi bi-collection-play"></i>
+      <i (click)="isMuted()" class="bi" [ngClass]="isMute? 'bi-volume-up': 'bi-volume-mute'"></i>
+      <input type="range" class="volume" value="{{volume}}" (change)="changeVolume($event)">
+    </div>
+  </div>
+</footer>

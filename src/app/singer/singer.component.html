@@ -1,0 +1,51 @@
+<!-- Main COntent Playlist -->
+<div class="main__body">
+  <div class="main__content">
+    <div class="singer__content">
+      <div class="singer__avatar">
+        <img class="singer-img"
+          src="{{singer[index]?.image}}"
+          alt="">
+        <h1 class="name-singer">{{singer[index]?.name}}</h1>
+      </div>
+      <div class="singer__info">
+        <span class="story-singer">{{singer[index]?.introduce}}</span>
+      </div>
+    </div>
+    <div class="main__album">
+      <div class="category__header">
+        <div class="category__header-text">
+          <h2>Có Thể Bạn Thích</h2>
+        </div>
+        <div class="category__header-icon">
+          <i class="bi bi-chevron-compact-left icon-prev"></i>
+          <i class="bi bi-chevron-compact-right icon-next"></i>
+        </div>
+      </div>
+      <div class="main__album__content">
+        <div class="main__album__content--items" *ngFor="let album of albumSuggest">
+          <div class="main__album__content-item">
+            <div class="album__img">
+              <div class="album__img-body">
+                <img src="{{album.image}}" alt="" class="album-img">
+              </div>
+              <div class="main__album__content-hover">
+                <a href=""><i class="bi bi-heart favorite-icon"></i></a>
+                <a href=""><i class="bi bi-play-circle play-icon"></i></a>
+                <a href=""><i class="bi bi-three-dots more-icon"></i></a>
+              </div>
+            </div>
+            <div class="album__text">
+              <a routerLink="/album/{{album.id}}" (click)="getId(album.id)">{{album.albumName}}</a>
+              <span>
+                <a routerLink="/singer/{{album.singer1}}">{{album.singer1}}</a>,
+                <a routerLink="/singer/{{album.singer1}}">{{album.singer2}}</a>,
+                <a routerLink="/singer/{{album.singer1}}">{{album.singer3}}</a>...
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

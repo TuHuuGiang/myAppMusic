@@ -1,0 +1,84 @@
+<ng-container>
+  <div class="main__body">
+    <div class="main__content">
+      <div class="search">
+        <h3 style="color: #fff; font-weight: 700;">
+          Kết quả tìm kiếm:
+        </h3>
+      </div>
+      <div class="main__zingchart-content">
+        <div class="main__zingchart-song" *ngFor="let song of songSearch">
+          <div class="main__zingchart-left">
+            <div class="main__song-rank">
+              <i class="bi bi-music-note-beamed menu-icons"></i>
+            </div>
+            <div class="main__zingchart-songimg">
+              <a href=""><img src="{{song.image}}" alt="" class="zingchart-img"></a>
+            </div>
+            <div class="main__zingchart-singer">
+              <a href="" class="zingchart-song">{{song.songName}}</a>
+              <a href="" class="zingchart-singer">{{song.singer1}}</a>&nbsp;
+              <a href="" class="zingchart-singer">{{song.singer2}}</a>
+            </div>
+          </div>
+          <div class="main__zingchart-between">
+            <div class="zingchart-singletime">
+              <span class="single-time">04:30</span>
+            </div>
+          </div>
+          <div class="main__zingchart-right">
+            <div class="zingchart-options">
+              <i class="bi bi-heart favorite-icon"></i>
+              <i class="bi bi-three-dots"></i>
+            </div>
+          </div>
+        </div>
+        <div class="main__album">
+          <div class="main__album__content">
+            <div class="main__album__content--items" *ngFor="let album of albumSearch">
+              <div class="main__album__content-item">
+                <div class="album__img">
+                  <div class="album__img-body">
+                    <img src="{{album.image}}" alt="" class="album-img">
+                  </div>
+                  <div class="main__album__content-hover">
+                    <a href=""><i class="bi bi-heart favorite-icon"></i></a>
+                    <a href=""><i class="bi bi-play-circle play-icon"></i></a>
+                    <a href=""><i class="bi bi-three-dots more-icon"></i></a>
+                  </div>
+                </div>
+                <div class="album__text">
+                  <a routerLink="/album/{{album.id}}">{{album.albumName}}</a>
+                  <span>Khi nét cũ kĩ lại làm cho âm nhạc trở nên tươi mới...</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="main__album">
+          <h2 class="main__album--heading">Có Thể Bạn Thích</h2>
+          <div class="main__album__content">
+            <div class="main__album__content--items" *ngFor="let album of albumSuggest">
+              <div class="main__album__content-item">
+                <div class="album__img">
+                  <div class="album__img-body">
+                    <img src="{{album.image}}" alt="" class="album-img">
+                  </div>
+                  <div class="main__album__content-hover">
+                    <a href=""><i class="bi bi-heart favorite-icon"></i></a>
+                    <a href=""><i class="bi bi-play-circle play-icon"></i></a>
+                    <a href=""><i class="bi bi-three-dots more-icon"></i></a>
+                  </div>
+                </div>
+                <div class="album__text">
+                  <a routerLink="/album/{{album.id}}">{{album.albumName}}</a>
+                  <span>Khi nét cũ kĩ lại làm cho âm nhạc trở nên tươi mới...</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ng-container>

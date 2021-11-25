@@ -1,0 +1,62 @@
+﻿// @import './color';
+// @import './base';
+
+.sidebar {
+  background-color: $bgc-sidebar;
+  height: 100vh;
+  width: 20%;
+  padding: 18px 0;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+
+  &__logo {
+    padding-left: 38px;
+  }
+
+  &__logo img {
+    width: 192px;
+    height: 50px;
+  }
+
+  &__menu ul {
+    margin-top: 18px;
+    padding: 0;
+  }
+
+  &__menu li {
+    margin: 10px 0;
+    list-style: none;
+  }
+
+  &__menu li:hover a {
+    opacity: 0.8;
+  }
+
+  &__menu li a {
+    text-decoration: none;
+    color: #fff;
+    padding-left: 38px;
+  }
+
+  &__menu li a .menu-icons {
+    font-size: 26px;
+  }
+
+  &__menu li a span {
+    font-size: 20px;
+    margin-left: 10px;
+    text-align: center;
+  }
+}
+
+.strikethrough {
+  margin-top: 18px;
+  border: 1px solid #ccc;
+}
+
+.active {
+  background-color: hsla(0, 0%, 100%, 0.1);
+  color: $text-color-white;
+  border-left: 3px solid $text-color-violet;
+}

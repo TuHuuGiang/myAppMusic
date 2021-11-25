@@ -1,0 +1,29 @@
+﻿.main__body {
+    & .main__content {
+        & .singer__content {
+            & .singer__info {
+                height: auto;
+                color: $text-color-white;
+                text-align: justify;
+
+                & .story-singer {
+                    line-height: 1.4;
+                    letter-spacing: 1px;
+                    color: $text-color-gray;
+                }
+            }
+    
+            & .singer__avatar {
+                display: flex;
+                align-items: center;
+                margin-bottom: 23px;
+
+                 & .name-singer {
+                     padding-left: 50px;
+                     color: $text-color-white;
+                     font-size: 40px;
+                 }
+            }
+        }
+    }
+}

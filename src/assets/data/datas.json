@@ -1,0 +1,2255 @@
+﻿{
+    "album": [
+        {
+            "id": "1",
+            "albumId": "1",
+            "albumName": "Rap Việt Nghe Là Ghiền",
+            "sologan": "Va vào những giai điệu Rap Việt gây nghiện cực mạnh",
+            "image": "./assets/img/category/category-list/rapviet.jpg",
+            "singer1": "Karik",
+            "singer2": "Binz",
+            "singer3": "Bray",
+            "songsAlbum": [
+                {
+                    "id": "1",
+                    "songId": "1",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "2",
+                    "songId": "2",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "3",
+                    "songId": "3",
+                    "songName": "Lạc",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Lac-Rhymastic.mp3"
+                },
+                {
+                    "id": "4",
+                    "songId": "4",
+                    "songName": "Krazy",
+                    "singer1": "Binz",
+                    "singer2": "Andree",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/5/b/5b86709cebf3c605cab924842736d984_1517888869.jpg",
+                    "path": "Krazy-Touliver-Binz-Andree-Evy.mp3"
+                },
+                {
+                    "id": "5",
+                    "songId": "5",
+                    "songName": "Phía Sau Em",
+                    "singer1": "Kay Trần",
+                    "singer2": "Binz",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/c/3/c300ae434343b009621c000ef85bc849_1379696767.jpg",
+                    "path": "Phia-Sau-Em-Kay-Tran-Binz.mp3"
+                },
+                {
+                    "id": "6",
+                    "songId": "6",
+                    "songName": "Tay To",
+                    "singer1": "MCK",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/0/2/c/e02cd4e0a723ed9b3510a95b5f6dbdd7.jpg",
+                    "path": "Tay-To-Rapital-MCK-RPT-PhongKhin.mp3"
+                },
+                {
+                    "id": "7",
+                    "songId": "7",
+                    "songName": "Thương",
+                    "singer1": "Karik",
+                    "singer2": "Uyên Pím",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+                    "path": "Thuong-Karik-Uyen-Pim-Bet-Band.mp3"
+                },
+                {
+                    "id": "8",
+                    "songId": "8",
+                    "songName": "Treasure",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/d/6d9bfab656c9be37b3ef972b8c9dd291_1503659621.jpg",
+                    "path": "Treasure-Rhymastic.mp3"
+                },
+                {
+                    "id": "9",
+                    "songId": "9",
+                    "songName": "Welcome To The Show",
+                    "singer1": "Bray",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/7/7/2777abf822a4899f5e857e4d6a389391.jpg",
+                    "path": "Welcome to the Show - B Ray.mp3"
+                },
+                {
+                    "id": "10",
+                    "songId": "10",
+                    "songName": "Yêu 5",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+                    "path": "Yeu-5-Rhymastic.mp3"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "albumId": "2",
+            "albumName": "Buồn Của Rap Việt",
+            "sologan": "Viết tâm tư vào nhạc, thả nỗi buồn vào Rap",
+            "image": "./assets/img/category/category-list/rapviet2.jpg",
+            "singer1": "Karik",
+            "singer2": "Binz",
+            "singer3": "Bray",
+            "songsAlbum": [
+                {
+                    "id": "11",
+                    "songId": "11",
+                    "songName": "Từng Là Tất Cả",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/f/b/fb71d72831219ef9716a539353696ae9_1473312677.jpg",
+                    "path": "Tung-La-Tat-Ca-Karik.mp3"
+                },
+                {
+                    "id": "12",
+                    "songId": "12",
+                    "songName": "Thú Tội",
+                    "singer1": "Đạt G",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/e/0/9/fe09fb3583e525d9c5c3619f446baae7.jpg",
+                    "path": "Thu Toi - Dat G.mp3"
+                },
+                {
+                    "id": "13",
+                    "songId": "13",
+                    "songName": "NMELBTYM",
+                    "singer1": "Tóc tiên",
+                    "singer2": "Da LAB",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/a/c/4/c/ac4c90ddaddc5fcf6c565d59400e7f7c.jpg",
+                    "path": "Nuoc Mat Em Lau Bang Tinh Yeu Moi Lofi V.mp3"
+                },
+                {
+                    "id": "14",
+                    "songId": "14",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "15",
+                    "songId": "15",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "16",
+                    "songId": "16",
+                    "songName": "Lạc",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Lac-Rhymastic.mp3"
+                },
+                {
+                    "id": "17",
+                    "songId": "17",
+                    "songName": "Thương",
+                    "singer1": "Karik",
+                    "singer2": "Uyên Pím",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+                    "path": "Thuong-Karik-Uyen-Pim-Bet-Band.mp3"
+                },
+                {
+                    "id": "18",
+                    "songId": "18",
+                    "songName": "Treasure",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/d/6d9bfab656c9be37b3ef972b8c9dd291_1503659621.jpg",
+                    "path": "Treasure-Rhymastic.mp3"
+                },
+                {
+                    "id": "19",
+                    "songId": "19",
+                    "songName": "Welcome To The Show",
+                    "singer1": "Bray",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/7/7/2777abf822a4899f5e857e4d6a389391.jpg",
+                    "path": "Welcome to the Show - B Ray.mp3"
+                },
+                {
+                    "id": "20",
+                    "songId": "20",
+                    "songName": "Yêu 5",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+                    "path": "Yeu-5-Rhymastic.mp3"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "albumId": "3",
+            "albumName": "Rap Việt Thả Thính",
+            "sologan": "Thả thính nhẹ qua từng vần rap để em thấy rằng anh yêu em bất chấp đó mà.",
+            "image": "./assets/img/category/category-list/rapviet1.jpg",
+            "singer1": "Karik",
+            "singer2": "Binz",
+            "singer3": "Bray",
+            "songsAlbum": [
+                {
+                    "id": "21",
+                    "songId": "21",
+                    "songName": "BigCityBoi",
+                    "singer1": "Binz",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/a/5/1/5a5164496ababbca1496193ec8b8afb1.jpg",
+                    "path": "Big City Boi - Binz_ Touliver.mp3"
+                },
+                {
+                    "id": "22",
+                    "songId": "22",
+                    "songName": "ToGetHer",
+                    "singer1": "Binz",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/a/8/5/ea85dbdab0c424246456d552e40e7a2c.jpg",
+                    "path": "ToGetHer - Binz.mp3"
+                },
+                {
+                    "id": "23",
+                    "songId": "23",
+                    "songName": "Ý Em Sao",
+                    "singer1": "Kay Trần",
+                    "singer2": "Lăng LD",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_png/covers/f/3/f30a202d97fcb737a80ade314ebdb8e0_1519540242.png",
+                    "path": "Y-Em-Sao-Kay-Tran-Lang-LD.mp3"
+                },
+                {
+                    "id": "24",
+                    "songId": "24",
+                    "songName": "Phải Là Yêu",
+                    "singer1": "HIEUTHUHAI",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/3/7/2/4372ff36962b66277889ebdf7b294089.jpg",
+                    "path": "Phai-La-Yeu-HIEUTHUHAI-HURRYKNG-MANBO.mp3"
+                },
+                {
+                    "id": "25",
+                    "songId": "25",
+                    "songName": "Yêu Em Quá Đi",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/9/2/9232c4c99c30f665e9326c8bbbcebc0e_1490436006.jpg",
+                    "path": "YeuEmQuaDi-Karik-4853058.mp3"
+                },
+                {
+                    "id": "26",
+                    "songId": "26",
+                    "songName": "Lạc",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Lac-Rhymastic.mp3"
+                },
+                {
+                    "id": "27",
+                    "songId": "27",
+                    "songName": "Thương",
+                    "singer1": "Karik",
+                    "singer2": "Uyên Pím",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+                    "path": "Thuong-Karik-Uyen-Pim-Bet-Band.mp3"
+                },
+                {
+                    "id": "28",
+                    "songId": "28",
+                    "songName": "Treasure",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/d/6d9bfab656c9be37b3ef972b8c9dd291_1503659621.jpg",
+                    "path": "Treasure-Rhymastic.mp3"
+                },
+                {
+                    "id": "29",
+                    "songId": "29",
+                    "songName": "Welcome To The Show",
+                    "singer1": "Bray",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/7/7/2777abf822a4899f5e857e4d6a389391.jpg",
+                    "path": "Welcome to the Show - B Ray.mp3"
+                },
+                {
+                    "id": "30",
+                    "songId": "30",
+                    "songName": "Yêu 5",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+                    "path": "Yeu-5-Rhymastic.mp3"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "albumId": "4",
+            "albumName": "Gia Vị Rap Việt",
+            "sologan": "Gia vị Rap luôn làm mọi thứ trở nên lôi cuốn đến lạ kì",
+            "image": "./assets/img/category/category-list/rapviet3.jpg",
+            "singer1": "Karik",
+            "singer2": "Binz",
+            "singer3": "Bray",
+            "songsAlbum": [
+                {
+                    "id": "31",
+                    "songId": "31",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Dế Choắt",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/8/7/d/687dae4254e41753c0d8b73ad90218cf.jpg",
+                    "path": "Sai-Gon-Lau-Phai-De-Choat-Ha.mp3"
+                },
+                {
+                    "id": "32",
+                    "songId": "32",
+                    "songName": "Đàn Ông Không Nói",
+                    "singer1": "Karik",
+                    "singer2": "Phan Mạnh Quỳnh",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/6/b/4/8/6b48c10ebe9e7688b69d334650cf6ea2.jpg",
+                    "path": "Dan-Ong-Khong-Noi-Phan-Manh-Quynh-Karik.mp3"
+                },
+                {
+                    "id": "33",
+                    "songId": "33",
+                    "songName": "Đường Một Chiều",
+                    "singer1": "Huỳnh Tú",
+                    "singer2": "Magazine",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Duong-Mot-Chieu-Huynh-Tu-Magazine.mp3"
+                },
+                {
+                    "id": "34",
+                    "songId": "34",
+                    "songName": "Phải Là Yêu",
+                    "singer1": "HIEUTHUHAI",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/3/7/2/4372ff36962b66277889ebdf7b294089.jpg",
+                    "path": "Phai-La-Yeu-HIEUTHUHAI-HURRYKNG-MANBO.mp3"
+                },
+                {
+                    "id": "35",
+                    "songId": "35",
+                    "songName": "Yêu Em Quá Đi",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/9/2/9232c4c99c30f665e9326c8bbbcebc0e_1490436006.jpg",
+                    "path": "YeuEmQuaDi-Karik-4853058.mp3"
+                },
+                {
+                    "id": "36",
+                    "songId": "36",
+                    "songName": "Lạc",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Lac-Rhymastic.mp3"
+                },
+                {
+                    "id": "37",
+                    "songId": "37",
+                    "songName": "Thương",
+                    "singer1": "Karik",
+                    "singer2": "Uyên Pím",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+                    "path": "Thuong-Karik-Uyen-Pim-Bet-Band.mp3"
+                },
+                {
+                    "id": "38",
+                    "songId": "38",
+                    "songName": "Treasure",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/d/6d9bfab656c9be37b3ef972b8c9dd291_1503659621.jpg",
+                    "path": "Treasure-Rhymastic.mp3"
+                },
+                {
+                    "id": "39",
+                    "songId": "39",
+                    "songName": "Welcome To The Show",
+                    "singer1": "Bray",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/7/7/2777abf822a4899f5e857e4d6a389391.jpg",
+                    "path": "Welcome to the Show - B Ray.mp3"
+                },
+                {
+                    "id": "40",
+                    "songId": "40",
+                    "songName": "Yêu 5",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+                    "path": "Yeu-5-Rhymastic.mp3"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "albumId": "5",
+            "albumName": "Rap Thế Hệ Trẻ",
+            "sologan": "Sự bùng nổ của Rap Việt thế hệ Gen Z",
+            "image": "./assets/img/category/category-list/tht.jpg",
+            "singer1": "Karik",
+            "singer2": "Binz",
+            "singer3": "Bray",
+            "songsAlbum": [
+                {
+                    "id": "41",
+                    "songId": "41",
+                    "songName": "Vượt Chướng Ngại vật",
+                    "singer1": "Lil Wuyn",
+                    "singer2": "Blacka",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/9/8/6/c98654ad5a84c2d920e379d2db950fba.jpg",
+                    "path": "Vuot-Chuong-Ngai-Vat-Lil-Wuyn-Blacka.mp3"
+                },
+                {
+                    "id": "42",
+                    "songId": "42",
+                    "songName": "Phi Hành Gia",
+                    "singer1": "Lil Wuyn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/6/d/6/86d68a321a1b7562b1bbf8e37642343a.jpg",
+                    "path": "Phi-Hanh-Gia-Renja-Slow-T-Lil-Wuyn-Kain-Sugar-Cane.mp3"
+                },
+                {
+                    "id": "43",
+                    "songId": "43",
+                    "songName": "Hẹn Gặp Lại",
+                    "singer1": "16 BrT",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/7/4/4/9744140cb1dae0fca5fe6efe360aad49.jpg",
+                    "path": "Hen-Gap-Lai-16-BrT.mp3"
+                },
+                {
+                    "id": "44",
+                    "songId": "44",
+                    "songName": "Phải Là Yêu",
+                    "singer1": "HIEUTHUHAI",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/3/7/2/4372ff36962b66277889ebdf7b294089.jpg",
+                    "path": "Phai-La-Yeu-HIEUTHUHAI-HURRYKNG-MANBO.mp3"
+                },
+                {
+                    "id": "45",
+                    "songId": "45",
+                    "songName": "Yêu Em Quá Đi",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/9/2/9232c4c99c30f665e9326c8bbbcebc0e_1490436006.jpg",
+                    "path": "YeuEmQuaDi-Karik-4853058.mp3"
+                },
+                {
+                    "id": "46",
+                    "songId": "46",
+                    "songName": "Lạc",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Lac-Rhymastic.mp3"
+                },
+                {
+                    "id": "47",
+                    "songId": "47",
+                    "songName": "Thương",
+                    "singer1": "Karik",
+                    "singer2": "Uyên Pím",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+                    "path": "Thuong-Karik-Uyen-Pim-Bet-Band.mp3"
+                },
+                {
+                    "id": "48",
+                    "songId": "48",
+                    "songName": "Treasure",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/d/6d9bfab656c9be37b3ef972b8c9dd291_1503659621.jpg",
+                    "path": "Treasure-Rhymastic.mp3"
+                },
+                {
+                    "id": "49",
+                    "songId": "49",
+                    "songName": "Welcome To The Show",
+                    "singer1": "Bray",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/7/7/2777abf822a4899f5e857e4d6a389391.jpg",
+                    "path": "Welcome to the Show - B Ray.mp3"
+                },
+                {
+                    "id": "50",
+                    "songId": "50",
+                    "songName": "Yêu 5",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+                    "path": "Yeu-5-Rhymastic.mp3"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "albumId": "6",
+            "albumName": "V-Indie Acoustic",
+            "sologan": "Cảm nhận chất indie trong từng tiếng đàn acoustic",
+            "image": "./assets/img/category/category-list/aindie.jpg",
+            "singer1": "Trang",
+            "singer2": "Orange",
+            "singer3": "Reddy",
+            "songsAlbum": [
+                {
+                    "id": "51",
+                    "songId": "51",
+                    "songName": "Em Bỏ Thuốc Chưa",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/8/d/7/f8d715152be52e11c7397aca0029de3f.jpg",
+                    "path": "em-bo-hut-thuoc-chua-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "52",
+                    "songId": "52",
+                    "songName": "Sài Gòn Hôm Nay Mưa",
+                    "singer1": "Hoàng Duyên",
+                    "singer2": "JSOL",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/9/2/8/5928602b7f912d758451907a80a38d90.jpg",
+                    "path": "SaiGonHomNayMua-JSOLHoangDuyen-7026537.mp3"
+                },
+                {
+                    "id": "53",
+                    "songId": "53",
+                    "songName": "Từ Chối Nhẹ Nhàng",
+                    "singer1": "Bích Phương",
+                    "singer2": "Phúc Du",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/9/9/4/e994585e5c52abe6e185eda478c1e7bf.jpg",
+                    "path": "tu-choi-nhe-nhang-thoi-liu-riu-version-Bich-Phuong-Phuc-Du.mp3"
+                },
+                {
+                    "id": "54",
+                    "songId": "54",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "55",
+                    "songId": "55",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "56",
+                    "songId": "56",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "57",
+                    "songId": "57",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "58",
+                    "songId": "58",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "59",
+                    "songId": "59",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "60",
+                    "songId": "60",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "albumId": "7",
+            "albumName": "V-Pop Acoustic",
+            "sologan": "Thả mình cùng những giai điệu V-Pop nhẹ nhàng",
+            "image": "./assets/img/category/category-list/avpop.jpg",
+            "singer1": "Hoàng Dũng",
+            "singer2": "Amee",
+            "singer3": "LyLy",
+            "songsAlbum": [
+                {
+                    "id": "61",
+                    "songId": "61",
+                    "songName": "Chiếc Hộp",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/5/e/c/05ec61d7782176162a97598117fa469f.jpg",
+                    "path": "chiec-hop-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "62",
+                    "songId": "62",
+                    "songName": "Chiều hôm Ấy",
+                    "singer1": "Jaykii",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/0/d/0d1fe0b30a319e56dce058a2b30f37d7_1503588020.jpg",
+                    "path": "Chieu-Hom-Ay-JayKii.mp3"
+                },
+                {
+                    "id": "63",
+                    "songId": "63",
+                    "songName": "Người Ta Đâu Thương Em",
+                    "singer1": "LyLy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/0/7/1/d071c3e20e8cfebb84943e039c337f85.jpg",
+                    "path": "Nguoi-Ta-Dau-Thuong-Em-LyLy.mp3"
+                },
+                {
+                    "id": "64",
+                    "songId": "64",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "65",
+                    "songId": "65",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "66",
+                    "songId": "66",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "67",
+                    "songId": "67",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "68",
+                    "songId": "68",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "69",
+                    "songId": "69",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "70",
+                    "songId": "70",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "albumId": "8",
+            "albumName": "V-Pop Acoustic Ký Ức",
+            "sologan": "Những ca khúc Acoustic này chắc chắn sẽ làm xao xuyến thế hệ 8x, 9x đời đầu.",
+            "image": "./assets/img/category/category-list/avpop1.jpg",
+            "singer1": "Dương Edward",
+            "singer2": "Hương Ly",
+            "singer3": "Tăng Phúc",
+            "songsAlbum": [
+                {
+                    "id": "71",
+                    "songId": "71",
+                    "songName": "Mùa Yêu Đầu",
+                    "singer1": "Đinh Mạnh Ninh",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/3/d30099eef1e0a704e4502974e31f70e3_1375261591.jpg",
+                    "path": "Mua-Yeu-Dau-Dinh-Manh-Ninh.mp3"
+                },
+                {
+                    "id": "72",
+                    "songId": "72",
+                    "songName": "Vài Lần Đón Đưa",
+                    "singer1": "Lê Hiếu",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/4/b/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1285466731.jpg",
+                    "path": "Vai-Lan-Don-Dua-Le-Hieu.mp3"
+                },
+                {
+                    "id": "73",
+                    "songId": "73",
+                    "songName": "Lời Chưa Nói",
+                    "singer1": "Trịnh Thăng Bình",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/e/c/ec28a2d11e2b89bea1520daa6e2b5ead_1316174092.jpg",
+                    "path": "Loi-Chua-Noi-Acoustic-Version-Trinh-Thang-Binh-Phuong-Thanh.mp3"
+                },
+                {
+                    "id": "74",
+                    "songId": "74",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "75",
+                    "songId": "75",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "76",
+                    "songId": "76",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "77",
+                    "songId": "77",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "78",
+                    "songId": "78",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "79",
+                    "songId": "79",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "80",
+                    "songId": "80",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "albumId": "9",
+            "albumName": "V-Pop Chill Hits",
+            "sologan": "Còn nhạc là còn chill, gác chân lên nào ta cùng feel",
+            "image": "./assets/img/category/category-list/ch.jpg",
+            "singer1": "Kha",
+            "singer2": "Phương Ly",
+            "singer3": "NIT",
+            "songsAlbum": [
+                {
+                    "id": "81",
+                    "songId": "81",
+                    "songName": "Tìm Hành Tinh Khác",
+                    "singer1": "Vũ Cát Tường",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/f/f/1/cff1521bc999f776d608095283710598.jpg",
+                    "path": "Tim-Hanh-Tinh-Khac-Chill-Version-Vu-Cat-Tuong.mp3"
+                },
+                {
+                    "id": "82",
+                    "songId": "82",
+                    "songName": "Nằm Ngủ Em Ru",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/b/e/d/9bed2137143317d0b4a791c8955ae276.jpg",
+                    "path": "nam-ngu-emru-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "83",
+                    "songId": "83",
+                    "songName": "Drama Queen",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/a/9/9/4a9923c4dc35bb5ea791e2461ed307a9.jpg",
+                    "path": "drama-queen-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "84",
+                    "songId": "84",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "85",
+                    "songId": "85",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "86",
+                    "songId": "86",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "87",
+                    "songId": "87",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "88",
+                    "songId": "88",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "89",
+                    "songId": "89",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "90",
+                    "songId": "90",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "albumId": "10",
+            "albumName": "Playlist Này Chill Phết",
+            "sologan": "Va vào những giai điệu chill khó cưỡng của V-Pop",
+            "image": "./assets/img/category/category-list/pc.jpg",
+            "singer1": "Karik",
+            "singer2": "Binz",
+            "singer3": "Bray",
+            "songsAlbum": [
+                {
+                    "id": "91",
+                    "songId": "91",
+                    "songName": "Tìm Hành Tinh Khác",
+                    "singer1": "Vũ Cát Tường",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/f/f/1/cff1521bc999f776d608095283710598.jpg",
+                    "path": "Tim-Hanh-Tinh-Khac-Chill-Version-Vu-Cat-Tuong.mp3"
+                },
+                {
+                    "id": "92",
+                    "songId": "92",
+                    "songName": "I Don't Wanna Miss You",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/2/8/32284b3b806366dff3330f401e7b197f.jpg",
+                    "path": "I-Don-t-Wanna-Miss-You-Tien-Tien-Trang.mp3"
+                },
+                {
+                    "id": "93",
+                    "songId": "93",
+                    "songName": "Cần Gì Hơn",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Justatee",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/2/2/3322f855e0570686316e80cc558d5ba8.jpg",
+                    "path": "Can-Gi-Hon-Tien-Tien-JustaTee.mp3"
+                },
+                {
+                    "id": "94",
+                    "songId": "94",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "95",
+                    "songId": "95",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "96",
+                    "songId": "96",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "97",
+                    "songId": "97",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "98",
+                    "songId": "98",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "99",
+                    "songId": "99",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "100",
+                    "songId": "100",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "albumId": "11",
+            "albumName": "Lofi Một Chút Thôi",
+            "sologan": "Lofi lâu phai và gây nghiện hoài hoài",
+            "image": "./assets/img/category/category-list/lofi.jpg",
+            "singer1": "Bích Phương",
+            "singer2": "Tăng Phúc",
+            "singer3": "Nguyên Hà",
+            "songsAlbum": [
+                {
+                    "id": "101",
+                    "songId": "101",
+                    "songName": "Em Bỏ Thuốc Chưa",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/8/d/7/f8d715152be52e11c7397aca0029de3f.jpg",
+                    "path": "em-bo-hut-thuoc-chua-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "102",
+                    "songId": "102",
+                    "songName": "Sài Gòn Hôm Nay Mưa",
+                    "singer1": "Hoàng Duyên",
+                    "singer2": "JSOL",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/9/2/8/5928602b7f912d758451907a80a38d90.jpg",
+                    "path": "SaiGonHomNayMua-JSOLHoangDuyen-7026537.mp3"
+                },
+                {
+                    "id": "103",
+                    "songId": "103",
+                    "songName": "Cô Đơn Dành Cho Ai",
+                    "singer1": "Lee Ken",
+                    "singer2": "Nal",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/1/4/8/01489ff733fe577c0eea93c06ef3bead.jpg",
+                    "path": "Co-Don-Danh-Cho-Ai-Lofi-Version-Lee-Ken-Nal.mp3"
+                },
+                {
+                    "id": "104",
+                    "songId": "104",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "105",
+                    "songId": "105",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                },
+                {
+                    "id": "106",
+                    "songId": "106",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "107",
+                    "songId": "107",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "108",
+                    "songId": "108",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "109",
+                    "songId": "109",
+                    "songName": "I Don't Wanna Miss You",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/2/8/32284b3b806366dff3330f401e7b197f.jpg",
+                    "path": "I-Don-t-Wanna-Miss-You-Tien-Tien-Trang.mp3"
+                },
+                {
+                    "id": "110",
+                    "songId": "110",
+                    "songName": "Cần Gì Hơn",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Justatee",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/2/2/3322f855e0570686316e80cc558d5ba8.jpg",
+                    "path": "Can-Gi-Hon-Tien-Tien-JustaTee.mp3"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "albumId": "12",
+            "albumName": "Chill Cùng R&B Việt",
+            "image": "./assets/img/category/category-list/r&b.jpg",
+            "sologan": "",
+            "singer1": "Soobin",
+            "singer2": "Mỹ Anh",
+            "singer3": "Hoàng Tôn",
+            "songsAlbum": [
+                {
+                    "id": "111",
+                    "songId": "111",
+                    "songName": "Tình Yêu Ngủ Quên",
+                    "singer1": "Hoàng Tôn",
+                    "singer2": "LyHan",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/a/1/6/fa164a95ff18192a620942312675729a.jpg",
+                    "path": "Tinh-Yeu-Ngu-Quen-Hoang-Ton-LyHan.mp3"
+                },
+                {
+                    "id": "112",
+                    "songId": "112",
+                    "songName": "Bồ Em",
+                    "singer1": "Dính",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/8/9/7/c8975b6e8e3a2bb778398fe3f5648aff.jpg",
+                    "path": "Bo-Em-dinh.mp3"
+                },
+                {
+                    "id": "113",
+                    "songId": "113",
+                    "songName": "Nâng Niu Cây Và Đất",
+                    "singer1": "Mỹ Anh",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/9/6/3/3963eb663dfe925442d78a8dec2889ff.jpg",
+                    "path": "Nang-niu-Cay-va-Dat-My-Anh.mp3"
+                },
+                {
+                    "id": "114",
+                    "songId": "114",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "115",
+                    "songId": "115",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                },
+                {
+                    "id": "116",
+                    "songId": "116",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "117",
+                    "songId": "117",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "118",
+                    "songId": "118",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "119",
+                    "songId": "119",
+                    "songName": "I Don't Wanna Miss You",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/2/8/32284b3b806366dff3330f401e7b197f.jpg",
+                    "path": "I-Don-t-Wanna-Miss-You-Tien-Tien-Trang.mp3"
+                },
+                {
+                    "id": "120",
+                    "songId": "120",
+                    "songName": "Cần Gì Hơn",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Justatee",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/2/2/3322f855e0570686316e80cc558d5ba8.jpg",
+                    "path": "Can-Gi-Hon-Tien-Tien-JustaTee.mp3"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "albumId": "13",
+            "albumName": "Tâm Trạng Tan Chậm",
+            "sologan": "Đóng băng thời gian, trôi chầm chậm theo những cảm xúc",
+            "image": "./assets/img/category/category-list/tctt.jpg",
+            "singer1": "14 Casper",
+            "singer2": "W/N",
+            "singer3": "Jaykii",
+            "songsAlbum": [
+                {
+                    "id": "121",
+                    "songId": "121",
+                    "songName": "Chiếc Hộp",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/0/5/e/c/05ec61d7782176162a97598117fa469f.jpg",
+                    "path": "chiec-hop-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "122",
+                    "songId": "122",
+                    "songName": "Chiều hôm Ấy",
+                    "singer1": "Jaykii",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/0/d/0d1fe0b30a319e56dce058a2b30f37d7_1503588020.jpg",
+                    "path": "Chieu-Hom-Ay-JayKii.mp3"
+                },
+                {
+                    "id": "123",
+                    "songId": "123",
+                    "songName": "Người Ta Đâu Thương Em",
+                    "singer1": "LyLy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/d/0/7/1/d071c3e20e8cfebb84943e039c337f85.jpg",
+                    "path": "Nguoi-Ta-Dau-Thuong-Em-LyLy.mp3"
+                },
+                {
+                    "id": "124",
+                    "songId": "124",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "125",
+                    "songId": "125",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "126",
+                    "songId": "126",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "127",
+                    "songId": "127",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "128",
+                    "songId": "128",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "129",
+                    "songId": "129",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "130",
+                    "songId": "130",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "albumId": "14",
+            "albumName": "V-Pop Acoustic Chill",
+            "sologan": "Không ồn ã, không vội vàng, cùng thư giãn với âm nhạc Acoustic ngay tại đây.",
+            "image": "./assets/img/category/category-list/vpop.jpg",
+            "singer1": "July San",
+            "singer2": "Thái Đinh",
+            "singer3": "Tiên Tiên",
+            "songsAlbum": [
+                {
+                    "id": "131",
+                    "songId": "131",
+                    "songName": "Em Bỏ Thuốc Chưa",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/8/d/7/f8d715152be52e11c7397aca0029de3f.jpg",
+                    "path": "em-bo-hut-thuoc-chua-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "132",
+                    "songId": "132",
+                    "songName": "Sài Gòn Hôm Nay Mưa",
+                    "singer1": "Hoàng Duyên",
+                    "singer2": "JSOL",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/9/2/8/5928602b7f912d758451907a80a38d90.jpg",
+                    "path": "SaiGonHomNayMua-JSOLHoangDuyen-7026537.mp3"
+                },
+                {
+                    "id": "133",
+                    "songId": "133",
+                    "songName": "Từ Chối Nhẹ Nhàng",
+                    "singer1": "Bích Phương",
+                    "singer2": "Phúc Du",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/9/9/4/e994585e5c52abe6e185eda478c1e7bf.jpg",
+                    "path": "tu-choi-nhe-nhang-thoi-liu-riu-version-Bich-Phuong-Phuc-Du.mp3"
+                },
+                {
+                    "id": "134",
+                    "songId": "134",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "135",
+                    "songId": "135",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "136",
+                    "songId": "136",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "137",
+                    "songId": "137",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "138",
+                    "songId": "138",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "139",
+                    "songId": "139",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "140",
+                    "songId": "140",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "albumId": "15",
+            "albumName": "Rap Việt Ngày Nay",
+            "sologan": "Người chơi hệ Rap Việt ngày nay nghe gì?",
+            "image": "./assets/img/category/category-list/rapviet5.jpg",
+            "singer1": "MCK",
+            "singer2": "Tlinh",
+            "singer3": "Seachains",
+            "songsAlbum": [
+                {
+                    "id": "141",
+                    "songId": "141",
+                    "songName": "Vượt Chướng Ngại vật",
+                    "singer1": "Lil Wuyn",
+                    "singer2": "Blacka",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/9/8/6/c98654ad5a84c2d920e379d2db950fba.jpg",
+                    "path": "Vuot-Chuong-Ngai-Vat-Lil-Wuyn-Blacka.mp3"
+                },
+                {
+                    "id": "142",
+                    "songId": "142",
+                    "songName": "Phi Hành Gia",
+                    "singer1": "Lil Wuyn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/8/6/d/6/86d68a321a1b7562b1bbf8e37642343a.jpg",
+                    "path": "Phi-Hanh-Gia-Renja-Slow-T-Lil-Wuyn-Kain-Sugar-Cane.mp3"
+                },
+                {
+                    "id": "143",
+                    "songId": "143",
+                    "songName": "Hẹn Gặp Lại",
+                    "singer1": "16 BrT",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/7/4/4/9744140cb1dae0fca5fe6efe360aad49.jpg",
+                    "path": "Hen-Gap-Lai-16-BrT.mp3"
+                },
+                {
+                    "id": "144",
+                    "songId": "144",
+                    "songName": "Phải Là Yêu",
+                    "singer1": "HIEUTHUHAI",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/3/7/2/4372ff36962b66277889ebdf7b294089.jpg",
+                    "path": "Phai-La-Yeu-HIEUTHUHAI-HURRYKNG-MANBO.mp3"
+                },
+                {
+                    "id": "145",
+                    "songId": "145",
+                    "songName": "Yêu Em Quá Đi",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/9/2/9232c4c99c30f665e9326c8bbbcebc0e_1490436006.jpg",
+                    "path": "YeuEmQuaDi-Karik-4853058.mp3"
+                },
+                {
+                    "id": "146",
+                    "songId": "146",
+                    "songName": "Lạc",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Lac-Rhymastic.mp3"
+                },
+                {
+                    "id": "147",
+                    "songId": "147",
+                    "songName": "Thương",
+                    "singer1": "Karik",
+                    "singer2": "Uyên Pím",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+                    "path": "Thuong-Karik-Uyen-Pim-Bet-Band.mp3"
+                },
+                {
+                    "id": "148",
+                    "songId": "148",
+                    "songName": "Treasure",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/d/6d9bfab656c9be37b3ef972b8c9dd291_1503659621.jpg",
+                    "path": "Treasure-Rhymastic.mp3"
+                },
+                {
+                    "id": "149",
+                    "songId": "149",
+                    "songName": "Welcome To The Show",
+                    "singer1": "Bray",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/7/7/2777abf822a4899f5e857e4d6a389391.jpg",
+                    "path": "Welcome to the Show - B Ray.mp3"
+                },
+                {
+                    "id": "150",
+                    "songId": "150",
+                    "songName": "Yêu 5",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+                    "path": "Yeu-5-Rhymastic.mp3"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "albumId": "16",
+            "albumName": "Chill Cùng Rap Việt",
+            "sologan": "Nếu bạn đang mệt mỏi hãy thả mình vào trong những flow Rap Việt để cảm thấy thoải mái hơn.",
+            "image": "./assets/img/category/category-list/rapviet02.jpg",
+            "singer1": "Tlinh",
+            "singer2": "Binz",
+            "singer3": "Tuimi",
+            "songsAlbum": [
+                {
+                    "id": "151",
+                    "songId": "151",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "152",
+                    "songId": "152",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "153",
+                    "songId": "153",
+                    "songName": "Lạc",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+                    "path": "Lac-Rhymastic.mp3"
+                },
+                {
+                    "id": "154",
+                    "songId": "154",
+                    "songName": "Krazy",
+                    "singer1": "Binz",
+                    "singer2": "Andree",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/5/b/5b86709cebf3c605cab924842736d984_1517888869.jpg",
+                    "path": "Krazy-Touliver-Binz-Andree-Evy.mp3"
+                },
+                {
+                    "id": "155",
+                    "songId": "155",
+                    "songName": "Phía Sau Em",
+                    "singer1": "Kay Trần",
+                    "singer2": "Binz",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/c/3/c300ae434343b009621c000ef85bc849_1379696767.jpg",
+                    "path": "Phia-Sau-Em-Kay-Tran-Binz.mp3"
+                },
+                {
+                    "id": "156",
+                    "songId": "156",
+                    "songName": "Tay To",
+                    "singer1": "MCK",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/e/0/2/c/e02cd4e0a723ed9b3510a95b5f6dbdd7.jpg",
+                    "path": "Tay-To-Rapital-MCK-RPT-PhongKhin.mp3"
+                },
+                {
+                    "id": "157",
+                    "songId": "157",
+                    "songName": "Thương",
+                    "singer1": "Karik",
+                    "singer2": "Uyên Pím",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/a/3/a3899970ba81b55deba986ab82ee69d7_1453947783.jpg",
+                    "path": "Thuong-Karik-Uyen-Pim-Bet-Band.mp3"
+                },
+                {
+                    "id": "158",
+                    "songId": "158",
+                    "songName": "Treasure",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/d/6d9bfab656c9be37b3ef972b8c9dd291_1503659621.jpg",
+                    "path": "Treasure-Rhymastic.mp3"
+                },
+                {
+                    "id": "159",
+                    "songId": "159",
+                    "songName": "Welcome To The Show",
+                    "singer1": "Bray",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/7/7/7/2777abf822a4899f5e857e4d6a389391.jpg",
+                    "path": "Welcome to the Show - B Ray.mp3"
+                },
+                {
+                    "id": "160",
+                    "songId": "160",
+                    "songName": "Yêu 5",
+                    "singer1": "Rhymastic",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/b/5/b5aa78aa102467e5648160a4ac93df8e_1486467660.jpg",
+                    "path": "Yeu-5-Rhymastic.mp3"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "albumId": "17",
+            "albumName": "Acoustic Nhẹ Nhàng",
+            "sologan": "Tuyển tập những ca khúc Acoustic Việt Nam nhẹ nhàng, sâu lắng.",
+            "image": "./assets/img/category/category-list/acousticnn.jpg",
+            "singer1": "Thái Trinh",
+            "singer2": "Hải Sâm",
+            "singer3": "Khăc Việt",
+            "songsAlbum": [
+                {
+                    "id": "161",
+                    "songId": "161",
+                    "songName": "Tìm Hành Tinh Khác",
+                    "singer1": "Vũ Cát Tường",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/f/f/1/cff1521bc999f776d608095283710598.jpg",
+                    "path": "Tim-Hanh-Tinh-Khac-Chill-Version-Vu-Cat-Tuong.mp3"
+                },
+                {
+                    "id": "162",
+                    "songId": "162",
+                    "songName": "Nằm Ngủ Em Ru",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/b/e/d/9bed2137143317d0b4a791c8955ae276.jpg",
+                    "path": "nam-ngu-emru-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "163",
+                    "songId": "163",
+                    "songName": "Drama Queen",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/a/9/9/4a9923c4dc35bb5ea791e2461ed307a9.jpg",
+                    "path": "drama-queen-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "164",
+                    "songId": "164",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "165",
+                    "songId": "165",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "166",
+                    "songId": "166",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "167",
+                    "songId": "167",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "168",
+                    "songId": "168",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "169",
+                    "songId": "169",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "170",
+                    "songId": "170",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "albumId": "18",
+            "albumName": "V-Indie Lofi",
+            "sologan": "Indie Việt và những thanh âm Lofi đầy mới lạ",
+            "image": "./assets/img/category/category-list/indielofi.jpg",
+            "singer1": "Phạm Ngọc Nguyên",
+            "singer2": "NIT",
+            "singer3": "Nal",
+            "songsAlbum": [
+                {
+                    "id": "171",
+                    "songId": "171",
+                    "songName": "Em Bỏ Thuốc Chưa",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/f/8/d/7/f8d715152be52e11c7397aca0029de3f.jpg",
+                    "path": "em-bo-hut-thuoc-chua-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "172",
+                    "songId": "172",
+                    "songName": "Sài Gòn Hôm Nay Mưa",
+                    "singer1": "Hoàng Duyên",
+                    "singer2": "JSOL",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/9/2/8/5928602b7f912d758451907a80a38d90.jpg",
+                    "path": "SaiGonHomNayMua-JSOLHoangDuyen-7026537.mp3"
+                },
+                {
+                    "id": "173",
+                    "songId": "173",
+                    "songName": "Từ Chối Nhẹ Nhàng",
+                    "singer1": "Bích Phương",
+                    "singer2": "Phúc Du",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/9/9/4/e994585e5c52abe6e185eda478c1e7bf.jpg",
+                    "path": "tu-choi-nhe-nhang-thoi-liu-riu-version-Bich-Phuong-Phuc-Du.mp3"
+                },
+                {
+                    "id": "174",
+                    "songId": "174",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "175",
+                    "songId": "175",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "176",
+                    "songId": "176",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "177",
+                    "songId": "177",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "178",
+                    "songId": "178",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "179",
+                    "songId": "179",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "180",
+                    "songId": "180",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "albumId": "19",
+            "albumName": "V-Pop Tháng 10",
+            "image": "./assets/img/category/category-list/vpopt10.jpg",
+            "singer1": "Bích Phương",
+            "singer2": "Hoàng Dũng",
+            "singer3": "Trang",
+            "songsAlbum": [
+                {
+                    "id": "181",
+                    "songId": "181",
+                    "songName": "Tìm Hành Tinh Khác",
+                    "singer1": "Vũ Cát Tường",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/f/f/1/cff1521bc999f776d608095283710598.jpg",
+                    "path": "Tim-Hanh-Tinh-Khac-Chill-Version-Vu-Cat-Tuong.mp3"
+                },
+                {
+                    "id": "182",
+                    "songId": "182",
+                    "songName": "I Don't Wanna Miss You",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/2/8/32284b3b806366dff3330f401e7b197f.jpg",
+                    "path": "I-Don-t-Wanna-Miss-You-Tien-Tien-Trang.mp3"
+                },
+                {
+                    "id": "183",
+                    "songId": "183",
+                    "songName": "Cần Gì Hơn",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Justatee",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/2/2/3322f855e0570686316e80cc558d5ba8.jpg",
+                    "path": "Can-Gi-Hon-Tien-Tien-JustaTee.mp3"
+                },
+                {
+                    "id": "184",
+                    "songId": "184",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "185",
+                    "songId": "185",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "186",
+                    "songId": "186",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "187",
+                    "songId": "187",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                },
+                {
+                    "id": "188",
+                    "songId": "188",
+                    "songName": "Lần Cuối",
+                    "singer1": "Karik",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+                    "path": "Lan Cuoi - Karik.mp3"
+                },
+                {
+                    "id": "189",
+                    "songId": "189",
+                    "songName": "Hai Thành Phố",
+                    "singer1": "Kiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/d/7/d70f3e22a483ff169907014acce69720_1484723073.jpg",
+                    "path": "2-Thanh-Pho-Kien-Trang.mp3"
+                },
+                {
+                    "id": "190",
+                    "songId": "190",
+                    "songName": "Thương",
+                    "singer1": "Reddy",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/4/1/7/9/4179ee0f5e021411b1f71c08a5bedcc3.jpg",
+                    "path": "Thuong-Acoustic-Version-Reddy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "albumId": "20",
+            "albumName": "Nhạc Hay Của Sơn Tùng",
+            "sologan": "Tuyển tập những ca khúc hay nhất của Sơn Tùng M-TP",
+            "image": "./assets/img/category/category-list/st.jpg",
+            "singer1": "Sơn Tùng M-TP",
+            "singer2": "",
+            "singer3": "",
+            "songsAlbum": [
+                {
+                    "id": "191",
+                    "songId": "191",
+                    "songName": "Lạc Trôi",
+                    "singer1": "Sơn Tùng M-TP",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/f/a/fa8586e9353a5f80c9d22c63a88d222b_1504987991.jpg",
+                    "path": "Lac-Troi-Masew-Mix-Son-Tung-M-TP-Masew.mp3"
+                },
+                {
+                    "id": "192",
+                    "songId": "192",
+                    "songName": "Remember Me",
+                    "singer1": "Sơn Tùng M-TP",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/a/6a6224a26894b7d6a99ec3ce8bc7f410_1503569328.jpg",
+                    "path": "Remember-Me-SlimV-2017-Mix-Son-Tung-M-TP-SlimV.mp3"
+                },
+                {
+                    "id": "193",
+                    "songId": "193",
+                    "songName": "Thái Bình Mồ Hôi Rơi",
+                    "singer1": "Sơn Tùng M-TP",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/4/242bc77b9636aac928c52057a57f8b81_1422863842.jpg",
+                    "path": "Thai-Binh-Mo-Hoi-Roi-Team-Son-Tung-M-TP-Slim-V-DJ-Trang-Moon-Son-Tung-M-TP.mp3"
+                },
+                {
+                    "id": "194",
+                    "songId": "194",
+                    "songName": "Tìm Hành Tinh Khác",
+                    "singer1": "Vũ Cát Tường",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/f/f/1/cff1521bc999f776d608095283710598.jpg",
+                    "path": "Tim-Hanh-Tinh-Khac-Chill-Version-Vu-Cat-Tuong.mp3"
+                },
+                {
+                    "id": "195",
+                    "songId": "195",
+                    "songName": "I Don't Wanna Miss You",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/2/8/32284b3b806366dff3330f401e7b197f.jpg",
+                    "path": "I-Don-t-Wanna-Miss-You-Tien-Tien-Trang.mp3"
+                },
+                {
+                    "id": "196",
+                    "songId": "196",
+                    "songName": "Cần Gì Hơn",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Justatee",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/2/2/3322f855e0570686316e80cc558d5ba8.jpg",
+                    "path": "Can-Gi-Hon-Tien-Tien-JustaTee.mp3"
+                },
+                {
+                    "id": "197",
+                    "songId": "197",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3"
+                },
+                {
+                    "id": "198",
+                    "songId": "198",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3"
+                },
+                {
+                    "id": "199",
+                    "songId": "199",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3"
+                },
+                {
+                    "id": "200",
+                    "songId": "200",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "albumId": "21",
+            "albumName": "Nhạc Hay Của Sơn Tùng",
+            "sologan": "Tuyển tập những ca khúc hay nhất của Sơn Tùng M-TP",
+            "image": "./assets/img/category/category-list/st.jpg",
+            "singer1": "Sơn Tùng M-TP",
+            "singer2": "",
+            "singer3": "",
+            "songsAlbum": [
+                {
+                    "id": "201",
+                    "songId": "201",
+                    "songName": "Lạc Trôi",
+                    "singer1": "Sơn Tùng M-TP",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/f/a/fa8586e9353a5f80c9d22c63a88d222b_1504987991.jpg",
+                    "path": "Lac-Troi-Masew-Mix-Son-Tung-M-TP-Masew.mp3",
+                    "rank": 1
+                },
+                {
+                    "id": "202",
+                    "songId": "202",
+                    "songName": "Remember Me",
+                    "singer1": "Sơn Tùng M-TP",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/6/a/6a6224a26894b7d6a99ec3ce8bc7f410_1503569328.jpg",
+                    "path": "Remember-Me-SlimV-2017-Mix-Son-Tung-M-TP-SlimV.mp3",
+                    "rank": 2
+                },
+                {
+                    "id": "203",
+                    "songId": "203",
+                    "songName": "Thái Bình Mồ Hôi Rơi",
+                    "singer1": "Sơn Tùng M-TP",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/covers/2/4/242bc77b9636aac928c52057a57f8b81_1422863842.jpg",
+                    "path": "Thai-Binh-Mo-Hoi-Roi-Team-Son-Tung-M-TP-Slim-V-DJ-Trang-Moon-Son-Tung-M-TP.mp3",
+                    "rank": 3
+                },
+                {
+                    "id": "204",
+                    "songId": "204",
+                    "songName": "Tìm Hành Tinh Khác",
+                    "singer1": "Vũ Cát Tường",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/c/f/f/1/cff1521bc999f776d608095283710598.jpg",
+                    "path": "Tim-Hanh-Tinh-Khac-Chill-Version-Vu-Cat-Tuong.mp3",
+                    "rank": 4
+                },
+                {
+                    "id": "205",
+                    "songId": "205",
+                    "songName": "I Don't Wanna Miss You",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Trang",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/2/2/8/32284b3b806366dff3330f401e7b197f.jpg",
+                    "path": "I-Don-t-Wanna-Miss-You-Tien-Tien-Trang.mp3",
+                    "rank": 5
+                },
+                {
+                    "id": "206",
+                    "songId": "206",
+                    "songName": "Cần Gì Hơn",
+                    "singer1": "Tiên Tiên",
+                    "singer2": "Justatee",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/3/3/2/2/3322f855e0570686316e80cc558d5ba8.jpg",
+                    "path": "Can-Gi-Hon-Tien-Tien-JustaTee.mp3",
+                    "rank": 6
+                },
+                {
+                    "id": "207",
+                    "songId": "207",
+                    "songName": "Cho Mình Em",
+                    "singer1": "Binz",
+                    "singer2": "Đen Vâu",
+                    "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+                    "path": "ChoMinhEm-Binz-6330310.mp3",
+                    "rank": 7
+                },
+                {
+                    "id": "208",
+                    "songId": "208",
+                    "songName": "Tháng Năm",
+                    "singer1": "Soobin Hoàng Sơn",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/c/b/2/5cb27fd4c536a2274d267a53ac417b01.jpg",
+                    "path": "ThangNamSpecialPerformance-SoobinHoangSonSlimV-7020121.mp3",
+                    "rank": 8
+                },
+                {
+                    "id": "209",
+                    "songId": "209",
+                    "songName": "Vâng Anh Đi Đi",
+                    "singer1": "Bích Phương",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/avatars/d/4/d4752c13e0148bf32a1e53f964d7ef26_1470471296.jpg",
+                    "path": "vang-anh-di-di-liu-riu-version-Bich-Phuong.mp3",
+                    "rank": 9
+                },
+                {
+                    "id": "300",
+                    "songId": "300",
+                    "songName": "Về Lại Đi Em",
+                    "singer1": "Nguyên",
+                    "singer2": "",
+                    "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/2/9/e/5/29e54706de66f738bd40e02c9266c21d.jpg",
+                    "path": "Ve Lai Di Em - Nguyen_.mp3",
+                    "rank": 10
+                }
+            ]
+        }
+    ],
+    "zingchart": [
+        {
+            "id": "43",
+            "songId": "43",
+            "songName": "Cho Mình Em",
+            "singer1": "Binz",
+            "singer2": "Đen Vâu",
+            "image": "https://i.ytimg.com/vi/2OKYsYErfFo/maxresdefault.jpg",
+            "path": "ChoMinhEm-Binz-6330310.mp3",
+            "rank": "1"
+        },
+        {
+            "id": "44",
+            "songId": "44",
+            "songName": "Lần Cuối",
+            "singer1": "Karik",
+            "singer2": "",
+            "image": "https://photo-resize-zmp3.zadn.vn/w320_r1x1_jpeg/cover/c/b/b/d/cbbdfde4559acd3951a894648f543cd0.jpg",
+            "path": "Lan Cuoi - Karik.mp3",
+            "rank": "2"
+        },
+        {
+            "id": "45",
+            "songId": "45",
+            "songName": "Lạc",
+            "singer1": "Rhymastic",
+            "singer2": "",
+            "image": "https://i.ytimg.com/vi/5vBp9OPkIrE/maxresdefault.jpg",
+            "path": "Lac-Rhymastic.mp3",
+            "rank": "3"
+        }
+    ],
+    "listSinger": [
+        {
+            "id": "111",
+            "name": "Karik",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/b/f/4/6/bf46d3f73a4315deb79e7f9c2c7d16a2.jpg",
+            "introduce": "Karik tham gia nhóm nhảy Freestyle năm 2006 nhưng 2008 phải nghỉ vì chấn thương. Anh chuyển sang Rap để giải tỏa cảm xúc.Ban đầu, Karik tự mình mày mò từ flow, lyrics và beat cho đến cách tự thu âm và dần dần được cộng đồng Underground công nhận sau cuối năm 2009.Năm 2012 anh vinh dự là nghệ sĩ nhạc Rap đầu tiên đoạt giải MTV Việt Nam.Các bài hát phát hành sau đó đều được khán giả yêu thích như: Anh Không Đòi Quà, Ế, Rắc Rối...Năm 2018 Karik kết hợp cùng Orange trong bài hát 'Người Lạ Ơi', bài hát trở thành hiện tượng của năm. Sau đó, cả hai còn hợp tác trong 'Mình Từng Yêu Như Thế' và 'Vô Thường'.Đầu năm 2019, Karik tung ra sản phẩm đậm chất cá nhân mang tên 'Anh Em Tao'."
+        },
+        {
+            "id": "112",
+            "name": "Binz",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+            "introduce": "Binz tham gia cộng đồng underground Việt từ năm 2008, từng là nghệ sĩ của một số diễn đàn rap như Midsiderap, GVR. Năm 2010, anh được biết đến với mixtape ”M-da Legend” & những sản phẩm kết hợp với rapper Cá Chép của Vietdreamerz. Năm 2018 là năm thành công của Binz với liên tiếp những bản hit được cả khán giả đại chúng yêu thích. Chủ đề sáng tác của Binz khá đa dạng, từ những bài rap tình yêu đầy chất thơ như 'OK', 'Sao Cũng Được', 'SOFAR'... đến những bài rap đầy chất xã hội như 'Nguyên Team Đi Vào Hết', 'They Said' (với Touliver)... Binz còn kết hợp với nghệ sĩ thuộc nhiều thể loại đa dạng như với SlimV trong 'Quên Anh Đi', với Đàm Vĩnh Hưng trong 'Hello', với Khổng Tú Quỳnh trong 'Stop Being Stupid'..."
+        },
+        {
+            "id": "113",
+            "name": "Rhymastic",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg",
+            "introduce": "Rhymastic tốt nghiệp Đại Học Kiến Trúc Hà Nội. Với đam mê nghệ thuật, anh tự học sáng tác và sản xuất âm nhạc từ 2009. Anh làm việc cho phòng thu M4ME cùng các nghệ sĩ như Justa Tee và Young Uno. Năm 2011, Rhymastic bước chân vào con đường chuyên nghiệp, với tư cách là rapper, nhà sản xuất âm nhạc của Space Speakers. Anh tham gia sản xuất các ca khúc như 'Khi Bên Em' của Cường Seven, 'Sâu Trong Em' của Bích Phương... Với vai trò ca sĩ, năm 2017 thành công của 'Yêu 5' giúp tên tuổi anh được đông đảo công chúng biết đến. Tiếp nối thành công, anh ra mắt 'Nến Và Hoa' năm 2018, hợp tác cùng Phương Ly và Touliver trong 'Đâu Chịu Ngồi Yên' năm 2019, năm 2020 là '1000x' cùng AMEE và Lou Hoàng... đều đạt thành công'"
+        },
+        {
+            "id": "114",
+            "name": "Đen Vâu",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/9/0/2/2/90223f08b220e52a78ac5c0dd739256f.jpg",
+            "introduce": "Năm 2014, anh ra mắt 'Đưa Nhau Đi Trốn' cùng Linh Cáo. Bài hát nhanh chóng trở thành hit. Tiếp nối thành công, cả hai tiếp tục kết hợp trong 'Ta cứ Đi Cùng Nhau'. Năm 2018, Đen liên tiếp ra mắt các sản phẩm mới nhưng đến 'Anh Đếch Cần Gì Nhiều Ngoài Em' thì Đen trở thành hiện tượng xã hội. Năm 2019 là một năm thành công cùa Đen với những bản hit nổi tiếng như 'Mười Năm' (cùng Ngọc Linh) kỷ niệm hành trình 10 năm theo rap, 'Bài Này Chill Phết' cùng Min, 'Hai Triệu Năm' (cùng Biên), 'Lối Nhỏ' (cùng Phương Anh Đào) và 'Cảm Ơn' (cùng Biên). Liveshow đầu tiên của mang tên 'Show của Đen' được tổ chức vào tháng 11. Đầu năm 2020, Đen Vâu ra mắt 'Một Triệu Like' kết hợp với Thành Đồng'"
+        },
+        {
+            "id": "115",
+            "name": "Bray",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/1/0/f/8/10f86500b805809fdc7ada9e26c74fef.jpg",
+            "introduce": "Sinh ra ở Việt Nam nhưng định cư ở Mỹ, B Ray bắt đầu nghe rap từ năm 2007 và tập tành chơi nhạc từ đó, đến năm 2013 thì anh được chú ý trong giới rapper underground, đặc biệt là thông qua các bài rap 'diss' (chê bai) LK, Rhymastic, Sơn Tùng M-TP... Năm 2015 đến 2018, B Ray kết hợp với Young H ra mắt The Mixtape 'Ếch và Báo' và các bài hát 'diss' người yêu cũ và được đón nhận nhiệt tình bởi cộng đồng rap Việt. Năm 2019, anh kết hợp với Masew và AMEE phát hành bài hát 'Ex's Hate Me', tuy không được cộng đồng rap đánh giá cao nhưng rất được giới nghe nhạc đại chúng yêu thích. Các thành công tiếp theo có thể kể đến: 'Con Trai Cưng', 'Cao Ốc 20', 'Yêu Như Trẻ Con'... và album 'Loser2Lover' phát hành đầu năm 2020."
+        },
+        {
+            "id": "116",
+            "name": "Kay Trần",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/3/0/8/4/3084e6c5bad4dcd34fefbb19f73d6192.jpg",
+            "introduce": "Năm 2013, Kay Trần hợp tác với Tronie (cựu thành viên nhóm 365) trong 'Thanh niên nghiêm túc'. Năm 2014, anh tham gia chương trình Ngôi Sai Việt, gây ấn tượng với khả năng hát hay, nhảy giỏi nhưng đột ngột dừng cuộc chơi khiến người hâm mộ tiếc nuối. Năm 2015, anh kết hợp cùng Binz trong 'Phía Sau Em'. Năm 2018, anh trở lại Vpop với một loạt hit như 'Ý Em Sao' và 'Vô Ra Ra Vô' (với Koo)... Đặc biệt ca khúc 'Ý Em Sao' theo phong cách retro rất được yêu thích và mang lại cho anh giải thưởng lớn. Tiếp nối thành công, năm 2019 anh ra mắt 'Chuyện Tình Tôi' (cùng Khoa và Kass) được coi là phần tiếp theo của 'Ý Em Sao', 'Tết Đong Đầy' (với Khoa)... ngoài ra anh cũng góp giọng trong ca khúc 'Đếm Cừu' của Han Sara."
+        },
+        {
+            "id": "117",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/4/a/9/1/4a91d506fc7144c7716b9d3166f2c4b6.jpg",
+            "name": "Sơn Tùng M-TP",
+            "introduce": "M-TP tên thật là Nguyễn Thanh Tùng. Cậu thanh niên sinh năm 1994 ở Thái Bình sớm bị hip hop hớp hồn giống như bao bạn bè đồng trang lứa. Và với niềm đam mê này, M-TP quyết tâm khăn gói tới Hà Nội học hỏi thêm về hip hop. Sau khi tốt nghiệp cấp 3, anh chàng dự định sẽ đầu quân làm học viên tại Học viện M4Me để rèn dũa khả năng ca hát, sáng tác... trước khi chính thức theo đuổi con đường âm nhạc. Ngoài đam mê ca hát, M-TP còn có khả năng sáng tác, chơi piano và nhảy cực đỉnh. Với thế mạnh này, anh chàng không ngừng cố gắng học tập các bậc đàn anh đàn chị và đã có trong tay một hành trang khá khủng những sáng tác của riêng mình. Sự nghiệp âm nhạc: Tháng 8/2011: M-TP phát hành ca khúc Cơn Mưa Ngang Qua lên mạng, ngay lập tức nó trở thành một ca khúc hot lúc bấy giờ khi mà chỉ sau hai tháng, đã có hơn 1.7 triệu lượt nghe - con số mà những ca sĩ kỳ cựu như Đàm Vĩnh Hưng, Hồ Ngọc Hà... cũng phải mơ ước. Năm 2012, với tổng điểm 25,5đ, M-TP trở thành thủ khoa Nhạc viện TP.HCM. Cậu chia sẻ rằng chia sẻ cảm xúc: Mặc dù khá tự tin sau khi kết thúc buổi thi nhưng mình vẫn không khỏi ngạc nhiên và hạnh phúc khi biết được kết quả thi. Đây thực sự là một món quà vô cùng ý nghĩa để bù đắp cho những nỗ lực của mình trong suốt thời gian ôn luyện vừa qua. Để lại nhiều ấn tượng trong lòng khán giả khi M-TP trình diễn thành công ca khúc Cơn Mưa Ngang Qua tại Bài Hát Yêu Thích tháng 10/2012 và tiếp tục nhận giải thưởng hát hát yêu thích của tháng trong chương trình là động lực rất lớn cho M-TP tiếp tục phấn đấu trong con đường âm nhạc chuyên nghiệp. Sau Bài Hát Yêu Thích, M-TP còn được mời tham gia biểu diễn trong đêm công bố kết quả Top 9 Vietnam Idol 2012. Tại Zing Mp3, Cơn Mưa Ngang Qua như là cú hít đầu tiên của cậu ca sĩ trẻ M-TP bước vào làng nhạc trẻ. Tính đến tháng 11/2014, ca khúc đạt được 64,278,735 lượt nghe. Năm 2013, anh đầu quân về công ty Văn Production JSC của nhạc sĩ Huy Tuấn và chính thức đổi nghệ danh thành Sơn Tùng M-TP để hoạt động âm nhạc chuyên nghiệp. Vào giữa năm, Sơn Tùng phát hành 2 đĩa đơn Đừng Về Trễ và Em Của Ngày Hôm Qua trong đó Đừng Về Trễ đoạt giải Bài hát yêu thích. Với Em Của Ngày Hôm Qua, ca khúc này đã trở thành một bài hit lớn trong sự nghiệp của Sơn Tùng M-TP khi ca khúc này liên tiếp chiếm giữ vị trí số 1 tại bảng xếp hạng của Zing Mp3 ở cả hai hạng mục là Bài hát và Video clip. 08/09/2014, MV Em Của Ngày Hôm Qua chính thức đạt hơn 40 triệu lượt xem trên Youtube trong vòng 9 tháng. Đây là một con số kỷ lục đối với MV nhạc Việt tình cho thời điểm bấy giờ. Dù gặp phải rất nhiều ý kiến xung quanh việc đạo nhạc nhưng không thể phủ nhận sức nóng của những ca khúc mà Sơn Tùng biểu diễn kể từ Nắng Ấm Xa Dần, Cơn Mưa Ngang Qua. Vào đầu năm 2014, anh hợp tác với Phương Thanh, Quang Dũng, Vy Oanh, Ngô Kiến Huy, Ông Cao Thắng, Đông Nhi, Hồ Trung Dũng, Phương Vy và Đinh Hương, tất cả cùng nhau có mặt trong ca khúc mang tên Sống Như Những Đóa Hoa và cũng được phát hành làm đĩa đơn. Cùng trong năm 2014, Sơn Tùng M-TP đảm nhận vai nam chính trong bộ phim nhựa Chàng Trai Năm Ấy của đạo diễn Quang Huy. Việc anh hóa thân vào ca sĩ Wanbi Tuấn Anh trên màn ảnh rộng đã thu hút được rất nhiều sự quan tâm từ truyền thông và người hâm mộ. Ngày 23/10/2014, ca khúc trích trong bộ phim Chàng Trai Năm Ấy do Sơn Tùng M-TP sáng tác và thể hiện mang tên Chắc Ai Đó Sẽ Về ra mắt đầu tiên tại Zing Mp3, từ hiện tượng Em Của Ngày Hôm Qua ca khúc này lập tức trở thành bài hit khác của Sơn Tùng, chỉ trong vòng 24 giờ ra mắt Chắc Ai Đó Sẽ Về đã đạt được gần 5 triệu lượt nghe. Tuy nhiên, cũng như Em Của Ngày Hôm Qua khi ra mắt, ca khúc này dính ngay nghi án đạo nhạc từ một ca khúc khác của Hàn Quốc mang tên Because I Miss You do trưởng nhóm CN Blue, Jung Yong Hwa trình bày, ca khúc này trích trong bộ truyền hình tại Hàn Quốc mang tên Heartstrings. Vấn đề đạo nhạc của ca khúc Chắc Ai Đó Sẽ Về đã trở thành đề tài tranh luận gay gắt trên các phương tiện truyền thông, nhiều nhạc sĩ tên tuổi đã vào cuộc để mổ xẻ, phân tích chuyên môn về hai ca khúc này. Ca khúc Chắc Ai Đó Sẽ Về và bộ phim Chàng Trai Năm Ấy trở thành tâm điểm của giới truyền thông trong suốt thời gian đấy. Sau khi nhận được đơn giải trình từ đạo diễn Nguyễn Quang Huy, Cục Bản quyền đã đề nghị Hội Âm nhạc họp để đánh giá ca khúc này có đạo nhạc hay không. Hội Âm nhạc gồm các nhạc sĩ tên tuổi như Phó Đức Phương, Trương Ngọc Ninh, Võ Thiện Thanh, Đỗ Bảo… đã có cuộc họp kín vào sáng 10/11/2014 và tất cả đều tán đồng ý kiến ca khúc Chắc Ai Đó Sẽ Về là sản phẩm đạo nhạc. Ý kiến trong cuộc họp này được cấu thành văn bản và gửi đến Cục Bản quyền để đề nghị xử lý. Nhạc sĩ Phó Đức Phương bình luận, Sơn Tùng M-TP đã đạo nhạc một cách tinh vi. Còn nhạc sĩ Trương Ngọc Ninh cho biết, ca khúc của Sơn Tùng giống bản gốc tới 80%. Với kết quả trên, vô hình chung đã ảnh hưởng đến tiến độ ra mắt của bộ phim Chàng Trai Năm Ấy, dự kiến ra rạp vào ngày 14/11/2014. Đạo diễn của bộ phim là Nguyễn Quang Huy quyết định dời ngày công chiếu vì những vấn đề liên quan đến ca khúc Chắc Ai Đó Sẽ Về. Trong thời cùng gian trên, Sơn Tùng M-TP nhiều lần bị tố tự hủy show diễn, đền hợp đồng biểu diễn.. Cho đến việc lùm xùm hợp đồng với công ty quản lý của mình, cụ thể là Văn Production JSC. Tất cả những sự việc không hay trên ít nhiều đã ảnh hưởng đến sự nghiệp của Sơn Tùng M-TP khi tài năng và sức trẻ đang ở trong giai đoạn bắt đầu phát triển.Đầu năm 2015, Sơn Tùng M-TP tham gia chương trình thực tế The Remix - Hòa âm Ánh sáng. Qua từng đêm thi, anh khẳng định được tài năng và thực lực của bản thân với các tiết mục đầu tư nghiêm túc, những màn trình diễn độc đáo, cùng khả năng sáng tác cực ổn với các ca khúc như Thái Bình mồ hôi rơi, Khuôn mặt đáng thương, Cơn mưa ngang qua...[9]. Tháng 7 năm 2015, kỷ niệm sinh nhật lần thứ 21 của mình, Sơn Tùng M-TP đã tổ chức một mini-show kết hợp buổi fan-meeting đầu tiên trong sự nghiệp mang tên “M-TP and Friends”. Chỉ trong vòng 2 tuần sau khi mở bán, 8.000 vé đã được bán hết.Ngày 24 tháng 1 năm 2016, Sơn Tùng M-TP tung ra MV Một năm mới bình an.2017: Rời khỏi WePro, thành lập M-TP Entertainment. Lạc trôi và Nơi này có anhNgày 22 tháng 8 năm 2017 , Sơn Tùng kết hợp với SlimV ra bản remix mới của Remember Me. Ngày 8 tháng 9 năm 2017 , Sơn Tùng ra mắt Music Video 360 Lạc Trôi do TRIPLE D Remix. Ngày 30 tháng 9 năm 2017, Sơn Tùng ra mắt tự truyện Chạm tới giấc mơ, bán được 10000 bản trong 2 ngày."
+        },
+        {
+            "id": "118",
+            "name": "Bích Phương",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/4/3/43d8be33dc00a33132c82adb9d0d3a54_1509355224.jpg",
+            "introduce": "Bích Phương là ca sĩ trưởng thành từ cuộc thi Việt Nam Idol 2010. Năm 2011, cô nổi lên như 1 hiện tượng với hàng loạt những ca khúc Pop Ballad mang giai điệu trữ tình, lời ca đi sâu vào lòng người như: Vẫn, Có khi nào rời xa, Kí ức ngủ quên, v..v.. Bích Phương nhanh chóng chiếm được tình cảm của đông đảo khán giả trẻ nhờ giọng hát mượt mà, sâu lắng cùng ngoại hình xinh đẹp, nữ tính. Nối tiếp những thành công bước đầu đó, Cô tiếp tục chinh phục khán giả bằng rất nhiều sản phẩm âm nhạc được đầu tư chất lượng, Album Vol.1 Chỉ là em giấu đi cùng rất nhiều những ca khúc gây sóng gió trên hàng loạt các bảng xếp hạng như Mình Yêu Nhau Đi và đem về cho Bích Phương những giải thưởng âm nhạc uy tín. Bích Phương dần khẳng định được vị trí vững chắc của mình trong dòng nhạc sở trường Pop Ballad. Đầu năm 2015 đến nay, Bích Phương gây chú ý bằng việc thay đổi hình ảnh lẫn phong cách âm nhạc trẻ trung, hiện đại hơn với RnB, Electro Pop như Bao Giờ Lấy Chồng, Gửi Anh Xa Nhớ, Đưa Em Đi Khắp Thế Gian, Nói Thương Nhau Thì Đừng Làm Trái Tim Em Đau..."
+        },
+        {
+            "id": "119",
+            "name": "MCK",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/8/e/3/a/8e3a8a9490794d57c604275b7edfd981.jpg",
+            "introduce": "Nghiêm Vũ Hoàng Long (sinh ngày 2 tháng 3 năm 2001 tại Hà Nội, Việt Nam) được biết đến với tên MCK còn có thể là Ngơ hay Nger là một rapper người viết lời nhạc theo phong cách rap melody, trước khi thi chương trình Rap Việt anh được biết với những ca khúc như: Rap Chậm Thôi, tình đắng như ly cà phê (hợp tác cùng với Nân.), Thủ Đô Cypher, v.v ... trong chương trình Rap Việt anh là người được bốn huấn luyện viên đánh giá cao. Giám khảo JustaTee gọi anh là 'người thừa kế lối rap melody' tại Việt Nam, Wowy khen ngợi RPT MCK là 'thiên tài' khi sử dụng auto live. Bên cạnh khả năng rap, RPT MCK còn gây chú ý bởi chuyện tình ngọt ngào với nữ rapper Tlinh."
+        },
+        {
+            "id": "1110",
+            "name": "Soobin Hoàng Sơn",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/f/1/d/d/f1ddeb86e263f0d67f835f1b60539a34.jpg",
+            "introduce": "Năm 2014, anh đạt giải Á quân cuộc thi Ngôi Sao Việt và được đào tạo 6 tháng ở Hàn Quốc. Khi trở về, anh tham gia nhóm nhạc underground SpaceSpeakers do Hoàng Touliver thành lập. Năm 2016, anh đạt giải Bạc cuộc thi Hòa Âm Ánh Sáng và ra mắt ca khúc tự sáng tác 'La La La (Và Thế Là Hết)'. Với thành công của 'Phía Sau Một Cô Gái' (sáng tác Tiên Cookie) thì Soobin Hoàng Sơn được đông đảo công chúng đón nhận. Ca khúc cũng giúp anh nhận lấy danh hiệu 'Hoàng Tử Ballad' từ người hâm mộ. Từ 2017 đến nay anh liên tiếp ra mắt nhiều bản hit như 'Ngày Mai Em Đi', 'Đi Để Trở Về' năm 2017, 'Đẹp Nhất Là Em' song ca cùng ca sĩ Hàn Quốc JiYeon năm 2018 và 'Nếu Ngày Ấy', 'Say Goodbye' trong năm 2019."
+        },
+        {
+            "id": "1111",
+            "name": "Vũ Cát Tường",
+            "image": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/avatars/7/9/790e461dc603423dda2cfd8a59466972_1501146897.jpg",
+            "introduce": "Năm 2013, Vũ Cát Tường tham gia chương trình Giọng hát Việt mùa thứ 2 và trở thành Á quân. Sau cuộc thi, Vũ Cát Tường đã ra mắt những ca khúc đầu tiên như 'Đông', 'Vết mưa'... và đã được rất nhiều khán giả trẻ đón nhận. Cuối năm 2014, Vũ Cát Tường ra mắt album đầu tay tên 'Giải Mã' với các ca khúc nổi bật như 'Góc Đa Hình', 'Phai', 'Mơ'... Năm 2018, Vũ Cát Tường cho ra mắt album thứ 2 là 'Stardom', đây cũng album đầu tiên của nghệ sĩ Việt Nam được phân phối bởi UMG, đánh dấu sự thay đổi trong phong cách âm nhạc của cô. Năm 2019, Vũ Cát Tường phát hành album phòng thu thứ 3 mang tên 'Inner Me' dưới định dạng USB, album nhận được sự đánh giá cao của giới phê bình và sự yêu thích của khán giả."
+        }
+    ]
+}

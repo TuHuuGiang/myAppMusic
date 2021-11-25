@@ -1,0 +1,86 @@
+  <div class="main__body">
+    <div class="main__content">
+      <div class="main__container">
+        <!-- Zing Chart -->
+        <div class="main__zingchart-container">
+          <div class="main__zingchart-body">
+            <a href="#" class="zingchart-heading">#ZingChart</a>
+            <div class="main__zingchart-rank">
+              <div class="main__rank">
+                <div class="rank-one"></div>
+                <div class="rank-tow"></div>
+                <div class="rank-three"></div>
+                <div class="rank-tow"></div>
+                <div class="rank-three"></div>
+                <div class="rank-one"></div>
+                <div class="rank-tow"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="main__zingchart-content">
+          <div class="main__zingchart-song" *ngFor="let zingchart of listSong; index as i">
+            <div class="main__zingchart-left">
+              <div class="main__song-rank">
+                <span #demoInput class="song-rank-number song-rank-tow">{{zingchart.rank}}</span>
+              </div>
+              <div class="main__zingchart-songimg">
+                <a href=""><img src="{{zingchart.image}}" alt="" class="zingchart-img"></a>
+              </div>
+              <div class="main__zingchart-singer">
+                <span (click)="getSong(i)" (click)="play(i)" class="zingchart-song">{{zingchart.songName}}</span>
+                <a routerLink="/singer/{{zingchart.singer1}}" class="zingchart-singer" (click)="getSinger(zingchart.singer1)">{{zingchart.singer1}}</a>&nbsp;
+                <a routerLink="/singer/{{zingchart.singer1}}" class="zingchart-singer" (click)="getSinger(zingchart.singer1)">{{zingchart.singer2}}</a>
+              </div>
+            </div>
+            <div class="main__zingchart-between">
+              <div class="zingchart-singletime">
+                <span class="single-time">04:30</span>
+              </div>
+            </div>
+            <div class="main__zingchart-right">
+              <div class="zingchart-options">
+                <i class="bi bi-heart favorite-icon" (click)="addSongFavorite(i)"></i>
+                <i class="bi bi-three-dots"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="main__album">
+        <div class="category__header">
+          <div class="category__header-text">
+            <h2>Có Thể Bạn Thích</h2>
+          </div>
+          <div class="category__header-icon">
+            <i class="bi bi-chevron-compact-left icon-prev"></i>
+            <i class="bi bi-chevron-compact-right icon-next"></i>
+          </div>
+        </div>
+        <div class="main__album__content">
+          <div class="main__album__content--items" *ngFor="let album of albumSuggest">
+            <div class="main__album__content-item">
+              <div class="album__img">
+                <div class="album__img-body">
+                  <img src="{{album.image}}" alt="" class="album-img">
+                </div>
+                <div class="main__album__content-hover">
+                  <a href=""><i class="bi bi-heart favorite-icon"></i></a>
+                  <a href=""><i class="bi bi-play-circle play-icon"></i></a>
+                  <a href=""><i class="bi bi-three-dots more-icon"></i></a>
+                </div>
+              </div>
+              <div class="album__text">
+                <a routerLink="/album/{{album.id}}">{{album.albumName}}</a>
+                <span>
+                  <a href="">{{album.singer1}}</a>,
+                  <a href="">{{album.singer2}}</a>,
+                  <a href="">{{album.singer3}}</a>...
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

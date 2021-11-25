@@ -1,0 +1,115 @@
+<ng-container>
+  <div class="main__body">
+  <div class="main__content">
+    <div class="playlist__detail-container">
+      <div class="playlist__detail-left">
+        <div class="playlist__detail-img">
+          <img src="{{albumById?.image}}" alt="">
+        </div>
+        <div class="playlist__detail-name">
+          <h2 class="playlist-name"><a href="">{{albumById?.albumName}}</a></h2>
+          <p class="playlist-time-update">Cập nhập: 24/10/2021</p>
+          <span class="playlist-singer">
+            <a href="">{{albumById?.singer1}}, </a>
+            <a href="">{{albumById?.singer2}}, </a>
+            <a href="">{{albumById?.singer3}}, ...</a>
+          </span>
+          <p class="playlist-favorite">10K người yêu thích</p>
+          <a type="button" class="btn-play-random" (click)=songRandom()>PHÁT NGẪU NHIÊN</a>
+        </div>
+      </div>
+      <div class="playlist__detail-right">
+        <div class="playlist__detail-right-header">
+          <span>Lời tựa: </span>
+          {{albumById?.sologan}}
+        </div>
+        <div class="main__zingchart-song">
+          <div class="main__zingchart-left">
+            <div class="main__song-rank">
+
+            </div>
+            <div class="main__zingchart-songimg">
+              <h6>Bài hát</h6>
+            </div>
+            <div class="main__zingchart-singer">
+
+            </div>
+          </div>
+          <div class="main__zingchart-between">
+            <div class="zingchart-singletime">
+              <h6>Thời gian</h6>
+            </div>
+          </div>
+          <div class="main__zingchart-right">
+            <div class="zingchart-options">
+              <h6>Tùy chọn</h6>
+            </div>
+          </div>
+        </div>
+
+        <div class="main__zingchart-song" *ngFor="let song of albumSong; index as i">
+          <div class="main__zingchart-left">
+            <div class="main__song-rank">
+              <i class="bi bi-music-note-beamed menu-icons"></i>
+            </div>
+            <div class="main__zingchart-songimg">
+              <a><img src="{{song.image}}" alt="" class="zingchart-img"></a>
+            </div>
+            <div class="main__zingchart-singer">
+              <a class="zingchart-song" (click)="getSong(i)" (click)="play(i)">{{song.songName}}</a>
+              <a routerLink="/singer/{{song.singer1}}" class="zingchart-singer" (click)="getSinger(song.singer1)">{{song.singer1}}</a>
+              <a routerLink="/singer/{{song.singer2}}" class="zingchart-singer" (click)="getSinger(song.singer2)">{{song.singer2}}</a>
+            </div>
+          </div>
+          <div class="main__zingchart-between">
+            <div class="zingchart-singletime">
+              <span class="single-time">04:30</span>
+            </div>
+          </div>
+          <div class="main__zingchart-right">
+            <div class="zingchart-options">
+              <i class="bi bi-heart favorite-icon" (click)="addSongFavorite(song.id)"></i>
+              <i class="bi bi-three-dots"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main__album">
+      <div class="category__header">
+        <div class="category__header-text">
+          <h2>Có Thể Bạn Thích</h2>
+        </div>
+        <div class="category__header-icon">
+          <i class="bi bi-chevron-compact-left icon-prev"></i>
+          <i class="bi bi-chevron-compact-right icon-next"></i>
+        </div>
+      </div>
+      <div class="main__album__content">
+        <div class="main__album__content--items" *ngFor="let album of albumSuggest">
+          <div class="main__album__content-item">
+            <div class="album__img">
+              <div class="album__img-body">
+                <img src="{{album.image}}" alt="" class="album-img">
+              </div>
+              <div class="main__album__content-hover">
+                <a href=""><i class="bi bi-heart favorite-icon"></i></a>
+                <a href=""><i class="bi bi-play-circle play-icon"></i></a>
+                <a href=""><i class="bi bi-three-dots more-icon"></i></a>
+              </div>
+            </div>
+            <div class="album__text">
+              <a routerLink="/album/{{album.id}}" (click)="getId(album.id)">{{album.albumName}}</a>
+              <span>
+                <a routerLink="/singer/{{album.singer1}}">{{album.singer1}}</a>,
+                <a routerLink="/singer/{{album.singer1}}">{{album.singer2}}</a>,
+                <a routerLink="/singer/{{album.singer1}}">{{album.singer3}}</a>...
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</ng-container>

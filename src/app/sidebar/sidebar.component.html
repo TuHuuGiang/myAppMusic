@@ -1,0 +1,62 @@
+<div class="sidebar">
+  <div class="sidebar__logo">
+    <img src="./assets/img/logo/logoss.png" alt="">
+  </div>
+  <div class="sidebar__menu">
+    <ul>
+      <li class="menu" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+        <a routerLink='/'>
+          <i class="bi bi-music-note menu-icons"></i>
+          <span>Trang chủ</span>
+        </a>
+      </li>
+      <li class="menu" routerLinkActive="active">
+        <a routerLink="/discover">
+          <i class="bi bi-vinyl menu-icons"></i>
+          <span>Khám Phá</span>
+        </a>
+      </li>
+      <li class="menu" routerLinkActive="active">
+        <a routerLink="/radio">
+          <i class="bi bi-file-earmark-music menu-icons"></i>
+          <span>Radio</span>
+        </a>
+      </li>
+      <li class="menu" routerLinkActive="active">
+        <a routerLink="/favorite">
+          <i class="bi bi-suit-heart-fill menu-icons"></i>
+          <span>Yêu Thích</span>
+        </a>
+      </li>
+    </ul>
+
+    <div class="strikethrough"></div>
+
+    <ul>
+      <li class="menu" routerLinkActive="active">
+        <a routerLink="/songnew">
+          <i class="bi bi-music-note-beamed menu-icons"></i>
+          <span>Nhạc Mới</span>
+        </a>
+      </li>
+      <li class="menu" routerLinkActive="active">
+        <a routerLink='/category'>
+          <i class="bi bi-columns-gap menu-icons"></i>
+          <span>Thể Loại</span>
+        </a>
+      </li>
+      <li class="menu" routerLinkActive="active">
+        <a routerLink='/zingchart'>
+          <i class="bi bi-star menu-icons"></i>
+          <span>Top 100</span>
+        </a>
+      </li>
+      <li class="menu" routerLinkActive="active">
+        <a routerLink="/mv">
+          <i class="bi bi-collection-play menu-icons"></i>
+          <span>MV</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>

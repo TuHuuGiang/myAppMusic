@@ -1,0 +1,132 @@
+<div class="main__body">
+  <div class="main__content">
+    <div class="category__banner">
+      <img src="./assets/img/background/categort-bg.jpg" alt="" class="category-banner-img">
+    </div>
+    <div class="category__body">
+      <div class="category__body-content">
+        <div class="category__header">
+          <div class="category__header-text">
+            <h2>Tâm Trạng Và Hoạt Động</h2>
+          </div>
+          <div class="category__header-icon">
+            <i class="bi bi-chevron-compact-left icon-prev"></i>
+            <i class="bi bi-chevron-compact-right icon-next"></i>
+          </div>
+        </div>
+        <div class="category__songs">
+          <div class="category__song-content">
+            <div class="category__song-img-container">
+              <div class="category__song-img">
+                <a href=""><img src="./assets/img/category/giaudieubuon.jpg" alt=""></a>
+              </div>
+              <div class="category__song-text">
+                <a href="">GIAI ĐIỆU BUỒN</a>
+              </div>
+            </div>
+          </div>
+          <div class="category__song-content">
+            <div class="category__song-img-container">
+              <div class="category__song-img">
+                <a href=""><img src="./assets/img/category/dinner.jpg" alt=""></a>
+              </div>
+              <div class="category__song-text">
+                <a href="">DINNER</a>
+              </div>
+            </div>
+          </div>
+          <div class="category__song-content">
+            <div class="category__song-img-container">
+              <div class="category__song-img">
+                <a href=""><img src="./assets/img/category/tiectung.jpg" alt=""></a>
+              </div>
+              <div class="category__song-text">
+                <a href="">TIỆC TÙNG</a>
+              </div>
+            </div>
+          </div>
+          <div class="category__song-content">
+            <div class="category__song-img-container">
+              <div class="category__song-img">
+                <a href=""><img src="./assets/img/category/tinhyeu.jpg" alt=""></a>
+              </div>
+              <div class="category__song-text">
+                <a href="">RUNNING</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main__album">
+      <div class="category__header">
+        <div class="category__header-text">
+          <h2>Hip-Hop</h2>
+        </div>
+        <div class="category__header-icon">
+          <i class="bi bi-chevron-compact-left icon-prev"></i>
+          <i class="bi bi-chevron-compact-right icon-next"></i>
+        </div>
+      </div>
+      <div class="main__album__content">
+        <div class="main__album__content--items" *ngFor="let album of listAlbum">
+          <div class="main__album__content-item">
+            <div class="album__img">
+              <div class="album__img-body">
+                <img src="{{album.image}}" alt="" class="album-img">
+              </div>
+              <div class="main__album__content-hover">
+                <a href=""><i class="bi bi-heart favorite-icon"></i></a>
+                <a href=""><i class="bi bi-play-circle play-icon"></i></a>
+                <a href=""><i class="bi bi-three-dots more-icon"></i></a>
+              </div>
+            </div>
+            <div class="album__text">
+              <a routerLink="/album/{{album.id}}">{{album.albumName}}</a>
+              <span>
+                <a href="">{{album.singer1}}</a>,
+                <a href="">{{album.singer2}}</a>,
+                <a href="">{{album.singer3}}</a>...
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main__album">
+      <div class="category__header">
+        <div class="category__header-text">
+          <h2>Acoustic</h2>
+        </div>
+        <div class="category__header-icon">
+          <i class="bi bi-chevron-compact-left icon-prev"></i>
+          <i class="bi bi-chevron-compact-right icon-next"></i>
+        </div>
+      </div>
+      <div class="main__album__content">
+        <div class="main__album__content--items" *ngFor="let album of listAlbumAcoustic">
+          <div class="main__album__content-item">
+            <div class="album__img">
+              <div class="album__img-body">
+                <img src="{{album.image}}" alt="" class="album-img">
+              </div>
+              <div class="main__album__content-hover">
+                <a href=""><i class="bi bi-heart favorite-icon"></i></a>
+                <a href=""><i class="bi bi-play-circle play-icon"></i></a>
+                <a href=""><i class="bi bi-three-dots more-icon"></i></a>
+              </div>
+            </div>
+            <div class="album__text">
+              <a routerLink="/album/{{album.id}}">{{album.albumName}}</a>
+              <span>
+                <a href="">{{album.singer1}}</a>,
+                <a href="">{{album.singer2}}</a>,
+                <a href="">{{album.singer3}}</a>...
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

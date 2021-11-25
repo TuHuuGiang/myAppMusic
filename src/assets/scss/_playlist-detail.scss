@@ -1,0 +1,188 @@
+﻿.main__body {
+  & .main__content {
+    & .playlist__detail-container {
+      width: 100%;
+      display: flex;
+
+      & .playlist__detail-left {
+        position: sticky;
+        top: 90px;
+        flex: 1;
+        height: 500px;
+        text-align: center;
+
+        & .playlist__detail-img {
+          border-radius: 10px;
+
+          & img {
+            max-width: 100%;
+            border-radius: 10px;
+            width: 300px;
+            height: 300px;
+            cursor: pointer;
+          }
+        }
+
+        & .playlist__detail-name {
+          margin-top: 12px;
+
+          & .playlist-name {
+            font-size: 21px;
+            padding-bottom: 4px;
+
+            & a {
+              text-decoration: none;
+              color: $text-color-white;
+            }
+          }
+
+          & .playlist-time-update {
+            color: $text-color-gray;
+          }
+
+          & .playlist-singer {
+            display: block;
+            padding: 4px 0;
+
+            & a {
+              color: $text-color-gray;
+              text-decoration: none;
+            }
+
+            & a:hover {
+              color: $text-color-violet-light;
+              text-decoration: underline;
+            }
+          }
+
+          & .playlist-favorite {
+            padding-bottom: 24px;
+            color: $text-color-gray;
+          }
+
+          & .btn-play-random {
+            font-size: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+            color: $text-color-white;
+            text-decoration: none;
+            background-color: $text-color-violet;
+            padding: 10px 16px;
+            border-radius: 18px;
+          }
+        }
+      }
+
+      & .playlist__detail-right {
+        flex: 2;
+        height: auto;
+        padding-left: 24px;
+
+        & .playlist__detail-right-header {
+          font-size: 15px;
+          color: $text-color-white;
+
+          & span {
+            color: $text-color-gray;
+          }
+        }
+
+        & .main__zingchart-song {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 8px 0;
+          margin-top: 10px;
+          color: $text-color-white;
+
+
+          & .main__zingchart-left {
+            flex: 2;
+            display: flex;
+            align-items: center;
+
+            & .main__song-rank {
+              margin-right: 36px;
+
+              & .menu-icons {
+                color: $text-color-white;
+                font-size: 21px;
+              }
+            }
+
+            & .main__zingchart-songimg {
+              margin-right: 18px;
+
+              & .zingchart-img {
+                width: 40px;
+                height: 40px;
+              }
+            }
+
+            & .main__zingchart-singer {
+
+              & .zingchart-song,
+              .zingchart-singer {
+                display: block;
+                text-decoration: none;
+              }
+
+              & .zingchart-song {
+                font-size: 15px;
+                cursor: pointer;
+                color: #fff;
+                font-weight: 900;
+              }
+
+              & .zingchart-singer {
+                display: inline-block;
+                padding-top: 5px;
+                font-size: 14px;
+                color: rgba(255, 255, 255, 0.5);
+                padding-right: 6px;
+              }
+
+              & .zingchart-singer:hover {
+                color: #c662ef;
+                text-decoration: underline;
+              }
+            }
+          }
+
+          & .main__zingchart-between {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+
+            & .zingchart-singletime {
+              & .single-time {
+                color: rgba(255, 255, 255, 0.5);
+              }
+            }
+          }
+
+          & .main__zingchart-right {
+            flex: 1;
+            display: flex;
+            justify-content: flex-end;
+
+            & .zingchart-options {
+              & i {
+                color: #fff;
+                padding: 0 6px;
+                cursor: pointer;
+              }
+
+              & .favorite-icon:hover {
+                color: red;
+              }
+            }
+          }
+        }
+
+        & .main__zingchart-song:not(:last-child) {
+          border-bottom: 1px solid $text-color-gray;
+        }
+      }
+    }
+  }
+}
